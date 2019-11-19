@@ -1,2 +1,3 @@
-# datafest-edi
-Website for ASA DataFest at University of Edinburgh
+# ASA DataFest at University of Edinburgh
+
+Website for ASA DataFest at University of Edinburgh.

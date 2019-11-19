@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASA DataFest 2020 on DataFest</title>
+    <link>/</link>
+    <description>Recent content in ASA DataFest 2020 on DataFest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>/coc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/coc/</guid>
+      <description>ASA DataFestTM at University of Edinburgh is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faq/</guid>
+      <description>How do I sign up? Click here to sign up. Please fill out the form fully. You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early! The registration deadline is Monday, March 26, at midnight.
+Is there a registration fee? There is a nominal registration fee of $20, but you can apply for a registration grant.</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/media/</guid>
+      <description>If you would like to write about or cover ASA DataFestTM in any way, please don&#39;t hesitate to contact us.
+ DataFest Shows Spike in Growth, Provides Immersive Experience - AMSTAT News, September 1, 2017
+ Edmunds.com sponsors data set for fifth ASA DataFest at UCLA - Daily Bruin - April 27, 2015
+ DataFest draws hundreds to solve stats challenges - The Chronicle - March 23, 2015
+ A Festival of Data: Student Perspectives - AMSTAT News, September 1, 2014</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>All events take place @ Bayes Centre
+Friday, March 13, 2020 Welcome!
+ 4-6pm - Registration 6-7pm - Kickoff &amp;amp; Meet the data - G.03 7pm - Dinner  Consultants available for help until midnight, you can work as late as you like.
+Saturday, March 14, 2020 Carry on!
+ 9am - Breakfast 12:30pm - Lunch 5:30pm - Group photo 6:00pm - Dinner 11:50pm - Midnight snack  Consultants available for help until midnight, you can work as late as you like.</description>
+    </item>
+    
+    <item>
+      <title>Sign up</title>
+      <link>/signup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/signup/</guid>
+      <description>Click on the option that applies to you. Regardless of the option you choose, you will automatically be placed on the ASA DataFestTM mailing list to receive updates and announcements.
+Registration deadline is midnight on Friday, Feb 21, 2020.
+Seats are limited, sign up before it&#39;s too late!
+Links to be posted soon!
+ Click [here](https://docs.google.com/forms/d/1Y2Yp-GSG_wv_NipkB_wOszuS6DpG6SC7DNAfwGuwh7c) to sign up as a team of 4 to 5 students. Students signing up in this category will be given priority.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/</guid>
+      <description>ASA DataFestTM at University of Edinburgh cannot run without your support!
+In you are interested in sponsoring this event, click here for more information.
+Please contact us if you are interested in sponsorship and/or have any questions.</description>
+    </item>
+    
+    <item>
+      <title>Sponsorship</title>
+      <link>/sponsorship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsorship/</guid>
+      <description>ASA DataFestTM at University of Edinburgh cannot run without your support!
+Please contact us if you are interested in sponsorship and/or have any questions.
+Impact of Your Sponsorship Your sponsorship of ASA DataFestTM benefits the ASA DataFestTM @ University of Edinburgh. Any residual funds will support undergraduate statistics education, foster the new generation of data science, and advance our mission of promoting the use of data in the understanding of our environment, our social relationships, and our physical and virtual selves.</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/</guid>
+      <description>Let us know if you&#39;re interested in running / hosting a pre-DataFest workshop!</description>
+    </item>
+    
+  </channel>
+</rss>
