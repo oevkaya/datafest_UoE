@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "DataFest"
+title = "DataFest @ EDI"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   gravatarEmail = "mcetinka@ed.ac.uk"
   # Your profile picture
 #  picture = ""
-  twitter = ""
+  twitter = "DataFestEDI"
  
 # Menu Configuration
 [[menu.main]]
@@ -101,6 +101,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [params]
-  dateFormat = "January 2, 2006"
-  background = "http://www2.stat.duke.edu/datafest/background.jpg"
+  dateFormat = "2 January 2006"
+  background = "img/background.jpg"
   favicon = ""

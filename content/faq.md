@@ -5,33 +5,41 @@ markup: "mmark"
 
 #### How do I sign up?
 
-Click <a href="/signup">here</a> to sign up. Please fill out the form fully. You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early! The registration deadline is **Monday, March 26, at midnight**.
+Click <a href="/signup">here</a> to sign up. Please fill out the form fully. You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early! The registration deadline is **Friday, 21 February, at 17:00**.
 
 #### Is there a registration fee?
 
-There is a nominal registration fee of $20, but you can apply for a registration grant. To do so, simply check the appropriate box on the registration form. These will be approved on a rolling basis, and you will find out within a few days of applying.
+No, there is no registration fee. However note that the event takes significant 
+resources to run. So, if you sign up, we expect that you show up! If your plans 
+change, [let us know](mailto:mcetinka@ed.ac.uk) ASAP so we can make your spot 
+available to someone else.
 
 #### Who is eligible to compete?</h4>
 
-All University of Edinburgh undergraduate students are eligible. Note that we only have space for 100 students, so act fast to sign up!
+All University of Edinburgh undergraduate students are eligible. Note that we 
+only have space for 100 students, so act fast to sign up!
 
 #### What about MSc and PhD students?
 
-We would love to have MSc and PhD students get involved as consultants during the event.
+We would love to have MSc and PhD students get involved as consultants during 
+the event.
 
 #### How large are the teams?
 
-Teams can be made up of 2-5 students.
+Teams can be made up of 2-5 students, but teams of 4-5 students will be given 
+priority.
 
 #### Do I have to compete in a team?
 
-Yes, but if you don't have a team in mind, leave us your info and we'll match you with others in the same boat.
+Yes, but if you don't have a team in mind, leave us your info and we'll match you 
+with others in the same boat.
 
-#### What do I need to compete?</h4>
+#### What do I need to compete?
 
-All you need is a laptop with tools for data analysis (there is no limitation on which software you use) and enthusiasm for data.
+All you need is a laptop with tools for data analysis (there is no limitation on 
+which software you use) and enthusiasm for data. See [here](https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops) for information on the university's laptop loan service. You can borrow one for the event from the library!
 
-#### What are the rules of the competition?</h4>
+#### What are the rules of the competition?
 
 The rules are very simple:
 
@@ -42,7 +50,7 @@ The rules are very simple:
   
 #### Do we have to stay the entire time?
 
-No. You may come and go as you please. However, you are not allowed to work on the project except while you are on ASA DataFest<sup><small>TM</small></sup> grounds, and at least 3 members of your team must attend the introduction.
+No. You may come and go as you please. However, you are not allowed to work on the project except while you are on ASA DataFest<sup><small>TM</small></sup> grounds (i.e. at Bayes Centre), and at least 3 members of your team must attend the introduction.
 
 #### What can I win?
 

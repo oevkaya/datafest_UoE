@@ -5,7 +5,7 @@ markup: "mmark"
 
 All events take place @ Bayes Centre
 
-### Friday, March 13, 2020
+### Friday, 13 March 2020
 
 **Welcome!**
 
@@ -15,7 +15,7 @@ All events take place @ Bayes Centre
 
 Consultants available for help until midnight, you can work as late as you like.
 
-### Saturday, March 14, 2020
+### Saturday, 14 March 2020
 
 **Carry on!**
 
@@ -27,7 +27,7 @@ Consultants available for help until midnight, you can work as late as you like.
 
 Consultants available for help until midnight, you can work as late as you like.
 
-### Sunday, March 15, 2020
+### Sunday, 15 March 2020
 
 **Wrap up!**
 
@@ -39,9 +39,10 @@ Consultants available for help until midnight, you can work as late as you like.
 
 Consultants available for help until 2:30 pm.
 
-### Monday, March 16, 2020
+### Monday, 16 March 2020
 
 **Present to all**
 
-Winners will be invited to present their work at the ASA DataFest Capstone Event 
-at G.03 at Bayes from 16:00 – 17:00. This event is open to all to attend.
+Winners will be invited to present their work at the Celebrating Data - ASA 
+DataFest Awards Ceremony at G.03 at Bayes from 16:00 – 17:00. This event is 
+open to all to attend. Link to reserve a spot to be posted!

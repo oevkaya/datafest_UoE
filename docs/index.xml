@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ASA DataFest 2020 on DataFest</title>
+    <title>DataFest 2020 @ EDI on DataFest @ EDI</title>
     <link>/</link>
-    <description>Recent content in ASA DataFest 2020 on DataFest</description>
+    <description>Recent content in DataFest 2020 @ EDI on DataFest @ EDI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -25,8 +25,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/faq/</guid>
-      <description>How do I sign up? Click here to sign up. Please fill out the form fully. You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early! The registration deadline is Monday, March 26, at midnight.
-Is there a registration fee? There is a nominal registration fee of $20, but you can apply for a registration grant.</description>
+      <description>How do I sign up? Click here to sign up. Please fill out the form fully. You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early! The registration deadline is Friday, 21 February, at 17:00.
+Is there a registration fee? No, there is no registration fee. However note that the event takes significant resources to run.</description>
     </item>
     
     <item>
@@ -38,8 +38,8 @@ Is there a registration fee? There is a nominal registration fee of $20, but you
       <description>If you would like to write about or cover ASA DataFestTM in any way, please don&#39;t hesitate to contact us.
  DataFest Shows Spike in Growth, Provides Immersive Experience - AMSTAT News, September 1, 2017
  Edmunds.com sponsors data set for fifth ASA DataFest at UCLA - Daily Bruin - April 27, 2015
- DataFest draws hundreds to solve stats challenges - The Chronicle - March 23, 2015
- A Festival of Data: Student Perspectives - AMSTAT News, September 1, 2014</description>
+ DataFest draws hundreds to solve stats challenges - The Chronicle - 23 March 2015
+ A Festival of Data: Student Perspectives - AMSTAT News, 1 September 2014</description>
     </item>
     
     <item>
@@ -49,9 +49,9 @@ Is there a registration fee? There is a nominal registration fee of $20, but you
       
       <guid>/schedule/</guid>
       <description>All events take place @ Bayes Centre
-Friday, March 13, 2020 Welcome!
+Friday, 13 March 2020 Welcome!
  4-6pm - Registration 6-7pm - Kickoff &amp;amp; Meet the data - G.03 7pm - Dinner  Consultants available for help until midnight, you can work as late as you like.
-Saturday, March 14, 2020 Carry on!
+Saturday, 14 March 2020 Carry on!
  9am - Breakfast 12:30pm - Lunch 5:30pm - Group photo 6:00pm - Dinner 11:50pm - Midnight snack  Consultants available for help until midnight, you can work as late as you like.</description>
     </item>
     
@@ -62,10 +62,9 @@ Saturday, March 14, 2020 Carry on!
       
       <guid>/signup/</guid>
       <description>Click on the option that applies to you. Regardless of the option you choose, you will automatically be placed on the ASA DataFestTM mailing list to receive updates and announcements.
-Registration deadline is midnight on Friday, Feb 21, 2020.
+Registration deadline is 17:00 on Friday, 21 Feb 2020.
 Seats are limited, sign up before it&#39;s too late!
-Links to be posted soon!
- Click [here](https://docs.google.com/forms/d/1Y2Yp-GSG_wv_NipkB_wOszuS6DpG6SC7DNAfwGuwh7c) to sign up as a team of 4 to 5 students. Students signing up in this category will be given priority.</description>
+Participants Option 1: Team sign-up (4-5 students)  Click here to sign up as a team of 4 to 5 students. Students signing up in this category will be given priority.</description>
     </item>
     
     <item>
@@ -96,7 +95,8 @@ Impact of Your Sponsorship Your sponsorship of ASA DataFestTM benefits the ASA D
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/workshops/</guid>
-      <description>Let us know if you&#39;re interested in running / hosting a pre-DataFest workshop!</description>
+      <description>We are planning on hosting a series of workshops leading up to the event to help participants prepare for the event.
+Let us know if you&#39;re interested in running / hosting a pre-DataFest workshop!</description>
     </item>
     
   </channel>
