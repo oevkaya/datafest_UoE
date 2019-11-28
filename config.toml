@@ -96,7 +96,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class=\"button-icon fa fa fa-twitter\"></i>"
-  url = ""
+  url = "https://twitter.com/DataFestEDI"
 [[menu.footer]]
 
 
