@@ -7,7 +7,7 @@ ASA DataFest<small><sup>TM</sup></small> at University of Edinburgh is committed
 
 This code of conduct applies to all participants, including organizers, mentors / VIP consultants, judges, and helpers and applies to all modes of interaction, both in-person and online, on ASA DataFest<small><sup>TM</sup></small> Community, and event specific Slack channels, and social media.
 
-ASA participants agree to:
+Participants agree to:
 
 - Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
 - Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any organizers in person.

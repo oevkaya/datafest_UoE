@@ -41,13 +41,13 @@ body.inverse .card .form-control {
 }
 
 body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4 {
-  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   line-height: 1.5em;
 }
 
 a, a:hover, a:focus {
-  color: #424242;
+  color: #197199;
 }
 a .material-icons, a:hover .material-icons, a:focus .material-icons {
   vertical-align: middle;
@@ -2586,18 +2586,16 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 1.5em;
-  line-height: 1.4em;
-  margin: 20px 0 10px;
+  margin: 5px 0 5px;
 }
 
 h4, .h4 {
-  font-size: 2em;
-  line-height: 1.4em;
+  font-size: 1.25em;
   width: 590px;
 }
 
 h5, .h5 {
-  font-size: 1.25em;
+  font-size: 1em;
   line-height: 1.4em;
   margin-bottom: 15px;
 }
