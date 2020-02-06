@@ -15,8 +15,10 @@ markup: "mmark"
 
 <br>
 
-<i class="fas fa-calendar-alt fa-lg fa-fw"></i> Friday, 13 March at 6pm - Sunday, 15 March at 5pm <br>
+<i class="fas fa-calendar-alt fa-lg fa-fw"></i> Friday, 13 March at 6pm - Sunday, 15 March at 6pm <br>
 <i class="fas fa-map-pin fa-lg fa-fw"></i> [Bayes Centre](https://www.ed.ac.uk/bayes) (47 Potterrow, Edinburgh EH8 9BT)
+<br><br>
+<i class="fas fa-info-circle fa-lg fa-fw"></i> Info session: Fri, 14 February at 10-11am at 6301 JCMB
 
 <br>
 
