@@ -5,7 +5,7 @@ location: "Bayes Centre"
 markup: "mmark"
 ---
 
-### DataFest 2020 @ EDI will take place at the University of Edinburgh, Bayes Centre over the 13-15 March 2020 weekend. Sign up by 21 February 2020!
+### DataFest 2020 @ EDI will take place at the University of Edinburgh, Bayes Centre over the 13-15 March 2020 weekend. Sign up by 28 February 2020!
 
 <br>
 
