@@ -5,21 +5,28 @@ location: "Bayes Centre"
 markup: "mmark"
 ---
 
+<img src="img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
+
 ### DataFest 2020 @ EDI will take place at the University of Edinburgh, Bayes Centre over the 13-15 March 2020 weekend. Sign up by 28 February 2020!
 
 <br>
-
-<img src="img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
 
 ### Event details
 
 <br>
 
+<i class="fas fa-laptop fa-2x fa-fw"></i>&nbsp;**Competition** <br>
 <i class="fas fa-calendar-alt fa-lg fa-fw"></i> Friday, 13 March at 6pm - Sunday, 15 March at 6pm <br>
-<i class="fas fa-map-pin fa-lg fa-fw"></i> [Bayes Centre](https://www.ed.ac.uk/bayes) (47 Potterrow, Edinburgh EH8 9BT)
-<br><br>
-<i class="fas fa-info-circle fa-lg fa-fw"></i> Info session: Fri, 14 February at 10-11am at 6301 JCMB
-
+<i class="fas fa-map-pin fa-lg fa-fw"></i> [Bayes Centre](https://www.ed.ac.uk/bayes) (47 Potterrow, Edinburgh EH8 9BT) <br>
+<br>
+<i class="fas fa-trophy fa-2x fa-fw"></i>&nbsp;**Awards ceremony**<br>
+<i class="fas fa-calendar-alt fa-lg fa-fw"></i>Monday, 16 March at 4-5pm <br>
+<i class="fas fa-map-pin fa-lg fa-fw"></i> [Bayes Centre](https://www.ed.ac.uk/bayes) (47 Potterrow, Edinburgh EH8 9BT) <br>
+<i class="fas fa-ticket-alt fa-lg fa-fw"></i> [Click here for tickets](https://www.citizenticket.co.uk/events/datafest/celebrating-data-asa-datafest-awards-ceremony/)<br>
+<br>
+<i class="fas fa-info-circle fa-2x fa-fw"></i>&nbsp;**Info session**<br>
+<i class="fas fa-calendar-alt fa-lg fa-fw"></i>Friday, 14 February at 10-11am <br>
+<i class="fas fa-map-pin fa-lg fa-fw"></i>6301 JCMB<br>
 <br>
 
 On Friday we will start with a reception where your surprise client will give a brief introduction to the data you will be working with over the weekend and tell you a bit about what they would like to get out of it. The data will likely be much more complex than what you are used to seeing in your classes, and you will be given free reign to analyze it however you like. In other words, you will come up with a research question that is of interest to you, and conduct the appropriate analysis to answer your question. But you are welcomed, and encouraged, to take cues from the client's introduction when shaping your research question(s).

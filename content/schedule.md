@@ -45,4 +45,4 @@ Consultants available for help until 2:30 pm.
 
 Winners will be invited to present their work at the Celebrating Data - ASA 
 DataFest Awards Ceremony at G.03 at Bayes from 16:00 – 17:00. This event is 
-open to all to attend. Link to reserve a spot to be posted!
+open to all to attend. Reserve a spot [here](https://www.citizenticket.co.uk/events/datafest/celebrating-data-asa-datafest-awards-ceremony/).
