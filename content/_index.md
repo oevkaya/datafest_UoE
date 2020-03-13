@@ -1,15 +1,25 @@
 ---
 title: "DataFest 2020 @ EDI"
-description: "13-15 March 2020"
-location: "Bayes Centre"
+description: "See below for COVID-19 updates!"
+location: ""
 markup: "mmark"
 ---
 
 <img src="img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
 
+<!--
+
 ### DataFest 2020 @ EDI will take place at the University of Edinburgh, Bayes Centre over the 13-15 March 2020 weekend. Sign up by 28 February 2020!
 
 <br>
+
+-->
+
+## IMPORTANT UPDATE
+
+Given recommendations for preventing the spread of COVID-19, and pending confirmation from the data donor, ASA DataFest @ EDI, along with all other DataFests around the globe, has been moved to a virtual format. Details on the new format will be posted here soon. Please stay tuned and keep washing your hands! 
+
+<!-- 
 
 ### Event details
 
@@ -32,6 +42,10 @@ markup: "mmark"
 On Friday we will start with a reception where your surprise client will give a brief introduction to the data you will be working with over the weekend and tell you a bit about what they would like to get out of it. The data will likely be much more complex than what you are used to seeing in your classes, and you will be given free reign to analyze it however you like. In other words, you will come up with a research question that is of interest to you, and conduct the appropriate analysis to answer your question. But you are welcomed, and encouraged, to take cues from the client's introduction when shaping your research question(s).
 
 Presentations and judging will begin ~3pm on Sunday. Each team will give a brief (5 minute) presentation of their findings to a panel of judges comprised of faculty and professionals from a variety of fields. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.
+
+-->
+
+<br><br>
 
 ### What is DataFest?
 
