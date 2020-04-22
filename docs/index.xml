@@ -11,12 +11,37 @@
     
     
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>What is DataFest? ASA DataFestTM is a data analysis competition where teams of up to five students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun!
+ASA DataFestTM is also a great opportunity to gain experience that employers are looking for.</description>
+    </item>
+    
+    <item>
       <title>Code of Conduct</title>
       <link>/coc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/coc/</guid>
       <description>ASA DataFestTM at University of Edinburgh is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media.</description>
+    </item>
+    
+    <item>
+      <title>Competition Details</title>
+      <link>/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/details/</guid>
+      <description>When is the competition? The competition is May 30 through June 13. All projects must be submitted by June 13, 2020 at 11:59pm BST.
+
+Who is eligible to participate? The competition is open to all undergraduate students at University of Edinburgh.
+
+How large are the teams? Teams can be made up of 2 to 5 students.
+
+Do I have to compete in a team? DataFest is a collaborative competition, so we strongly encourage you to work in a team to honor the spirit of the competition.</description>
     </item>
     
     <item>
@@ -57,6 +82,21 @@ The School of Mathematics at The University of Edinburgh is situated in the Jame
     </item>
     
     <item>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      <description>Technology resources Software  RStudio Cloud: https://rstudio.cloud/
+ EDINA (Link TBA) for access to R and Python
+  Code repository, version control, and collaboration  GitHub: https://www.github.com
+ GitLab: https://about.gitlab.com
+ Happy Git with R: https://happygitwithr.com/
+  Interctive visualisations and dashboards  Shiny:
+ All things Shiny: https://shiny.rstudio.com/ (including a sample COVID-19 dashboard) Deploy Shiny app on shinyapps.io: https://docs.rstudio.com/shinyapps.io/getting-started.html Shiny tutorial (video): https://shiny.rstudio.com/tutorial/ Shiny tutorial (slides): https://rstudio-education.github.io/shiny-jsm18/  Tableau:</description>
+    </item>
+    
+    <item>
       <title>Schedule</title>
       <link>/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -75,10 +115,9 @@ Saturday, 14 March 2020 Carry on!
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/signup/</guid>
-      <description>Click on the option that applies to you. Regardless of the option you choose, you will automatically be placed on the ASA DataFestTM mailing list to receive updates and announcements.
-Registration deadline is 17:00 on Friday, 21 Feb 2020.
-Seats are limited, sign up before it&#39;s too late!
-Participants Option 1: Team sign-up (4-5 students)  Click here to sign up as a team of 4 to 5 students. Students signing up in this category will be given priority.</description>
+      <description>Registration deadline Saturday, May 30 at 11:59pm BST.
+
+  Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMTZVUjVBR0sySDZKR0VORjVFSFVXMFRNSS4u) to sign up as a team of 4 to 5 students. Students signing up in this category will be given priority. ### Option 2: Team sign-up (2-3 students)  Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUQTlVUlRGQU43NjIxWEwxMVVETTZLWlpLWS4u) to sign up as a team of 2 to 3 students. Students signing up in this category will be added to the roster if there are seats open as of Fridsy, 21 Feb, 2020.</description>
     </item>
     
     <item>

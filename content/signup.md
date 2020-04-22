@@ -3,9 +3,13 @@ title: "Sign up"
 markup: "mmark"
 ---
 
-Click on the option that applies to you. Regardless of the option you choose, you will automatically be placed on the ASA DataFest<small><sup>TM</sup></small> mailing list to receive updates and announcements.
+Registration deadline **Saturday, May 30 at 11:59pm BST**.
 
-Registration deadline is 17:00 on **Friday, 21 Feb 2020**.
+<br>
+
+<iframe width="800px" height= "1000px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUQjhNRjhRTUc1WTZLNlJSQkRFOU41RFJCWS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+<!--
 
 Seats are limited, sign up before it's too late!
 
@@ -28,5 +32,7 @@ Seats are limited, sign up before it's too late!
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUQTRYNjFEU0pVTEZMNUoyUjhKVExGRTY5Ry4u"><i class="fas fa-user-plus fa-2x" style="color:#4285F4"></i></a> If you are interested in serving as a consultant during the event, please let us know your availability [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUQTRYNjFEU0pVTEZMNUoyUjhKVExGRTY5Ry4u).
 
 <br><br>
+
+-->
 
 If you have any questions about registration, please contact [Dr. Mine Çetinkaya-Rundel](mailto:mcetinka@ed.ac.uk).
