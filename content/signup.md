@@ -3,11 +3,13 @@ title: "Sign up"
 markup: "mmark"
 ---
 
-Registration deadline **Saturday, May 30 at 11:59pm BST**.
+Registration is closed as of **Saturday, May 30 at 11:59pm BST**.
 
-<br>
+<!--
 
 <iframe width="800px" height= "1000px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUQjhNRjhRTUc1WTZLNlJSQkRFOU41RFJCWS4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+-->
 
 <!--
 
