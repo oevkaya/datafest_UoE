@@ -33,7 +33,7 @@ Our judges for this year's DataFest @ EDI were
 
 The judges first reviewed the submissions from participants independently and scored them, and then deliberated on a Zoom call to make final decisions on winners. 
 
-The judges remarked that *"all projects showed a fantastic level of data savviness and the technical expertise to source, wrangle analyse, and present data, and some were simply outstanding!"
+The judges remarked that *"all projects showed a fantastic level of data savviness and the technical expertise to source, wrangle analyse, and present data, and some were simply outstanding!"*
 
 ## Awards
 
