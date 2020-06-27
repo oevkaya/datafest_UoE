@@ -54,56 +54,61 @@ Team Phoenix was tasked with exploring the societal impacts of COVID-19 beyond h
 
 The judges commended the description that accompanies every trend presented in the dashboard and remaked that they were genuinely interested to read these explanations.
 
+---
 
 ### 🏆 Most creative topic: The Data Quails
 
 #### Societal impacts of the COVID-19 pandemic on education in the United States
 
-- Jaden Kimura - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Kaori Shimizu - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Claire Squires - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+Jaden Kimura - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Kaori Shimizu - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Claire Squires - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+
+📹 [Video presentation](https://www.youtube.com/watch?v=ey_PL0gF-oY)  
+✨ [Interactive app](https://datafest2020.shinyapps.io/TheDataQuails)  
+📦 [GitHub repository](https://github.com/clairesquires99/TheDataQuails)  
 
 The COVID-19 pandemic resulted in the US government enforcing lockdown measures and social distancing, forcing many schools to close. Schools have thus shifted to teaching students remotely, making student’s access to the internet vital for their education. Hence, The Data Quails chose to investigate student’s access to the internet and devices for learning purposes as education continues to shift online. An analysis of student’s access to these two resources can provide valuable insight into understanding how traditional models of education have transformed considering the COVID-19 pandemic. It remains true that these resources are not universally accessible and that socio-economic factors such as income or food sufficiency can correlate with whether students have access to these resources.
 
 The judges really liked the "why this matters" section of the writeup and commended the app and video.
 
-- [Video presentation](https://www.youtube.com/watch?v=ey_PL0gF-oY)
-- [Interactive app](https://datafest2020.shinyapps.io/TheDataQuails)
-- [GitHub repository](https://github.com/clairesquires99/TheDataQuails)
-
+---
 
 ### 🏆 Judge’s pick - Divy and friends	
 
 #### Searching US in Covid-19
 
-- Natasha Rinta Dustan - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Ng Jie Xin - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Divy Bramhecha - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+Natasha Rinta Dustan - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Ng Jie Xin - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Divy Bramhecha - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+
+📹 Video: **[NEED LINK]**  
+✨ [[Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)  
 
 **NEED SUMMARY**
 
 The judges commended the team for combining multiple different datasets and creating a comprehensive dashboard. They also recommended editing the dashboard to remove extraneous background images so the data and findings could shine better as well as synthesizing the results to highlight the importance of trends.
 
-- [Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)
-- Video: **[NEED LINK]**
+---
 
 ### 🏅 Honourable mention - Most creative topic: lemonchocolatecheesecake
 
 #### Relationship between dengue fever outbreak and lockdown
 
-- Justin Yeo - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Prakash Nair - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Eman Wong - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Owen Lee - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+Justin Yeo - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Prakash Nair - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Eman Wong - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Owen Lee - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+
+🖥 [Slide deck](https://github.com/datafest-edi/datafest-2020/blob/master/project-03/presentation.pdf)  
+📃 [Writeup](https://github.com/datafest-edi/datafest-2020/blob/master/project-03/writeup.pdf)  
+📦 [GitHub repository](https://github.com/w0en/datafest2020)  
 
 With team members from Singapore and Malaysia, Team lemonchocolatecheesecake decided to focus on Singapore’s COVID-19 lockdown measures (named Circuit Breaker) which happened to coincide with an outbreak of the dengue virus (which causes dengue fever). They investigated if the dengue fever outbreak could be attributed to the Circuit Breaker, or alternatively if the Circuit Breaker had worsened the dengue fever outbreak.
 
 The judges thought the dengue fever angle was very creative and enjoyed this exploration. They also recommended including visualisations and reformatting R statistical results into a more presentable form, e.g. using the broom package.
 
-- [Slide deck](https://github.com/datafest-edi/datafest-2020/blob/master/project-03/presentation.pdf)
-- [Writeup](https://github.com/datafest-edi/datafest-2020/blob/master/project-03/writeup.pdf)
-- [GitHub repository](https://github.com/w0en/datafest2020)
-
+---
   
 ## Other submissions
 
