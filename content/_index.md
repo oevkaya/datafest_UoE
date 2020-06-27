@@ -37,7 +37,7 @@ The judges remarked that *"all projects showed a fantastic level of data savvine
 
 ## Awards
 
-### Best insight: Team Phoenix
+### 🏆 Best insight: Team Phoenix
 
 - Aditya Rudrapatna - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
 - Lauryn Mwale - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
@@ -55,7 +55,7 @@ Team Phoenix was tasked with exploring the societal impacts of COVID-19 beyond h
 The judges commended the description that accompanies every trend presented in the dashboard and remaked that they were genuinely interested to read these explanations.
 
 
-### Most creative topic: The Data Quails
+### 🏆 Most creative topic: The Data Quails
 
 - Jaden Kimura - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
 - Kaori Shimizu - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
@@ -71,8 +71,23 @@ The COVID-19 pandemic resulted in the US government enforcing lockdown measures 
 
 The judges really liked the "why this matters" section of the writeup and commended the app and video.
 
-  
-### Honourable mention - Most creative topic: lemonchocolatecheesecake
+
+### 🏆 Judge’s pick - Divy and friends	
+
+- Natasha Rinta Dustan - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Ng Jie Xin - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Divy Bramhecha - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+
+#### Searching US in Covid-19
+
+- [Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)
+- Video: **[NEED LINK]**
+
+**NEED SUMMARY**
+
+The judges commended the team for combining multiple different datasets and creating a comprehensive dashboard. They also recommended editing the dashboard to remove extraneous background images so the data and findings could shine better as well as synthesizing the results to highlight the importance of trends.
+
+### 🏅 Honourable mention - Most creative topic: lemonchocolatecheesecake
 
 - Justin Yeo - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
 - Prakash Nair - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
@@ -88,21 +103,6 @@ The judges really liked the "why this matters" section of the writeup and commen
 With team members from Singapore and Malaysia, Team lemonchocolatecheesecake decided to focus on Singapore’s COVID-19 lockdown measures (named Circuit Breaker) which happened to coincide with an outbreak of the dengue virus (which causes dengue fever). They investigated if the dengue fever outbreak could be attributed to the Circuit Breaker, or alternatively if the Circuit Breaker had worsened the dengue fever outbreak.
 
 The judges thought the dengue fever angle was very creative and enjoyed this exploration. They also recommended including visualisations and reformatting R statistical results into a more presentable form, e.g. using the broom package.
-
-### Judge’s pick - Divy and friends	
-
-- Natasha Rinta Dustan - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Ng Jie Xin - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Divy Bramhecha - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-
-#### Searching US in Covid-19
-
-- [Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)
-- Video: **[NEED LINK]**
-
-**NEED SUMMARY**
-
-The judges commended the team for combining multiple different datasets and creating a comprehensive dashboard. They also recommended editing the dashboard to remove extraneous background images so the data and findings could shine better as well as synthesizing the results to highlight the importance of trends.
 
   
 ## Other submissions
