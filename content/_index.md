@@ -41,18 +41,18 @@ The judges remarked that *"all projects showed a fantastic level of data savvine
 
 #### Surges in searches during the UK lockdown
 
-- Aditya Rudrapatna - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Lauryn Mwale - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Mark Kleyner - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
-- Nia Indigo Allen-Cooper - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+Aditya Rudrapatna - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Lauryn Mwale - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Mark Kleyner - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Nia Indigo Allen-Cooper - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+
+✨ [Interactive app](https://phoenix-datafest.herokuapp.com)   
+📃 [Writeup](https://github.com/datafest-edi/datafest-2020/tree/master/project-08)  
+📦 [GitHub repository](https://github.com/aditya101099/Edi-DataFest-2020)  
 
 Team Phoenix was tasked with exploring the societal impacts of COVID-19 beyond health outcomes. They decided to investigate whether there were surges in certain searches during the UK lockdown. While UK lockdowns began on March 23rd, they chose to study the March 1st - May 25th period, hypothesising that many people would have begun to change their search preferences 2-3 weeks before in anticipation. They limited the search period to May 25th, the day George Floyd died, so that results wouldn’t be skewed by the BLM movement & protest news. Google Trends provides data on the relative search volumes (RSV) of topics and queries over time and across geographical areas. Team Phoenix used this to analyse changing public interests during the pandemic.
 
 The judges commended the description that accompanies every trend presented in the dashboard and remaked that they were genuinely interested to read these explanations.
-
-- [Interactive app](https://phoenix-datafest.herokuapp.com) 
-- [Writeup](https://github.com/datafest-edi/datafest-2020/tree/master/project-08)
-- [GitHub repository](https://github.com/aditya101099/Edi-DataFest-2020)
 
 
 ### 🏆 Most creative topic: The Data Quails
