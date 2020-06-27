@@ -83,7 +83,7 @@ Ng Jie Xin - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
 Divy Bramhecha - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
 
 📹 Video: **[NEED LINK]**  
-✨ [[Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)  
+✨ [Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)  
 
 **NEED SUMMARY**
 
