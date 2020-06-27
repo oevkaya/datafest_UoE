@@ -39,6 +39,11 @@ The judges remarked that *"all projects showed a fantastic level of data savvine
 
 ### Best insight: Team Phoenix
 
+- Aditya Rudrapatna - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Lauryn Mwale - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Mark Kleyner - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Nia Indigo Allen-Cooper - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+
 #### Surges in searches during the UK lockdown
 
 - [Interactive app](https://phoenix-datafest.herokuapp.com) 
@@ -51,6 +56,10 @@ The judges commended the description that accompanies every trend presented in t
 
 
 ### Most creative topic: The Data Quails
+
+- Jaden Kimura - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Kaori Shimizu - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Claire Squires - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
 
 ### Societal impacts of the COVID-19 pandemic on education in the United States
 
@@ -65,6 +74,11 @@ The judges really liked the "why this matters" section of the writeup and commen
   
 ### Honourable mention - Most creative topic: lemonchocolatecheesecake
 
+- Justin Yeo - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Prakash Nair - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Eman Wong - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Owen Lee - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+
 #### Relationship between dengue fever outbreak and lockdown
 
 - [Slide deck](https://github.com/datafest-edi/datafest-2020/blob/master/project-03/presentation.pdf)
@@ -77,6 +91,10 @@ The judges thought the dengue fever angle was very creative and enjoyed this exp
 
 ### Judge’s pick - Divy and friends	
 
+- Natasha Rinta Dustan - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Ng Jie Xin - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+- Divy Bramhecha - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**
+
 #### Searching US in Covid-19
 
 - [Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)
@@ -87,14 +105,14 @@ The judges thought the dengue fever angle was very creative and enjoyed this exp
 The judges commended the team for combining multiple different datasets and creating a comprehensive dashboard. They also recommended editing the dashboard to remove extraneous background images so the data and findings could shine better as well as synthesizing the results to highlight the importance of trends.
 
   
-## Participants
+## Other submissions
 
 As our judges remarked, all entries were fantastic and making a choice was difficult! Here are the rest of the entries from DataFest 2020 @ EDI. 
 
 - Matthew Dailey - [What the World Searched for; Coronavirus and Google](https://github.com/datafest-edi/datafest-2020/tree/master/project-01)
-- Popo's Favourites - [An investigation into how food production has been affected by Covid-19](https://github.com/datafest-edi/datafest-2020/tree/master/project-02)
-- BackRow - [The impact of COVID-19 on happiness](https://github.com/datafest-edi/datafest-2020/tree/master/project-04)
-- The Tiroleans - [UK Government Approval During Covid-19 Pandemic](https://github.com/datafest-edi/datafest-2020/tree/master/project-07)
+- Popo's Favourites (Alex Terry, Sahara Matic, Sofiya Yatsyna) - [An investigation into how food production has been affected by Covid-19](https://github.com/datafest-edi/datafest-2020/tree/master/project-02)
+- BackRow (Andrej Jovanović, Zeno Kujawa and Mantas Rumskas) - [The impact of COVID-19 on happiness](https://github.com/datafest-edi/datafest-2020/tree/master/project-04)
+- The Tiroleans (Rebecca Collins, Simon Kaufmann) - [UK Government Approval During Covid-19 Pandemic](https://github.com/datafest-edi/datafest-2020/tree/master/project-07)
 
 ---
 
