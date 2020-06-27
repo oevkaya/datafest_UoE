@@ -28,7 +28,7 @@ Over the two week period participants conversed with each other and mentors on a
 Our judges for this year's DataFest @ EDI were
 
 - [Ksenia Aleksankina](https://www.linkedin.com/in/ksenia-aleksankina-62816980/) - Data Scientist, TravelNest
-- [John MacInnes](http://www.sps.ed.ac.uk/q-step/about_us/people/macinnes_john) - Professor of Sociology at The University of Edinburgh
+- [John MacInnes](http://www.sps.ed.ac.uk/q-step/about_us/people/macinnes_john) - Emeritus Professor of Sociology and Statistics at The University of Edinburgh
 - [Riinu Pius](https://www.riinu.me/) - Senior Data Manager at The University of Edinburgh, Clinical Surgery
 
 The judges first reviewed the submissions from participants independently and scored them, and then deliberated on a Zoom call to make final decisions on winners. 
