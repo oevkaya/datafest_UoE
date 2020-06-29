@@ -80,8 +80,8 @@ The judges really liked the "why this matters" section of the writeup and commen
 
 #### Searching US in Covid-19
 
-Natasha Rinta Dustan - BSc in Mathematics and Statistics, Year 3  
-Ng Jie Xin - BSc in Mathematics and Music, Year 2  
+[Natasha Rinta Dustan](https://www.linkedin.com/in/natasha-rinta-dunstan-5a64771b1/?fbclid=IwAR1_rybpy2ZSh-Wj-k5qz6jZ-eIRegZ7nZVYk-CQB8JbEjTTutIGuhd_J2Y) - BSc in Mathematics and Statistics, Year 3  
+Jie Xin Ng - BSc in Mathematics and Music, Year 2  
 [Divy Bramhecha](https://www.linkedin.com/in/divy-bramhecha/) - BSc in AI, Year 2  
 
 📹 [Video](https://youtu.be/30CHqnLB_5E)  
