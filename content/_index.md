@@ -41,10 +41,12 @@ The judges remarked that *"all projects showed a fantastic level of data savvine
 
 #### Surges in searches during the UK lockdown
 
-Aditya Rudrapatna - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Lauryn Mwale - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Mark Kleyner - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Nia Indigo Allen-Cooper - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+[Aditya Rudrapatna](https://www.linkedin.com/in/aditya-r-0ab3b277/) - BSc in Computer Science and Mathematics, Year 2 
+[Lauryn Mwale](https://www.linkedin.com/in/lauryn-mwale/) - BSc Mathematics, Year 3
+[Mark Kleyner](https://www.linkedin.com/in/markkleyner/) - MA in Geography and Economics, Year 2
+[Nia Indigo Allen-Cooper](https://www.linkedin.com/in/nia-allen-cooper) - MMath Mathematics, Year 3
+
+I’m a second year student (starting third year in September) studying BSc Computer Science and Mathematics. My LinkedIn profile: 
 
 ✨ [Interactive app](https://phoenix-datafest.herokuapp.com)   
 📃 [Writeup](https://github.com/datafest-edi/datafest-2020/tree/master/project-08)  
@@ -78,14 +80,14 @@ The judges really liked the "why this matters" section of the writeup and commen
 
 #### Searching US in Covid-19
 
-Natasha Rinta Dustan - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Ng Jie Xin - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Divy Bramhecha - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Natasha Rinta Dustan - BSc in Mathematics and Statistics, Year 3
+Ng Jie Xin - BSc in Mathematics and Music, Year 2 
+[Divy Bramhecha](https://www.linkedin.com/in/divy-bramhecha/) - BSc in AI, Year 2
 
 📹 Video: **[NEED LINK]**  
 ✨ [Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)  
 
-**NEED SUMMARY**
+How many confirmed cases till countries decided go into lockdown? How closely are people adhering to lockdown guidelines? Are people concerned about taking preventative measures against a global pandemic? Using Google mobility trends as well as search trends for keywords like 'face mask', 'sanitiser (sanitizer)' , 'social distancing', etc. , We looked into these issues, focusing especially on members' home countries including India and Malaysia. Comparing these results against countries like the US and UK, the team investigates whether there is a difference in the degree of interest and awareness towards Covid-19 between East and West.
 
 The judges commended the team for combining multiple different datasets and creating a comprehensive dashboard. They also recommended editing the dashboard to remove extraneous background images so the data and findings could shine better as well as synthesizing the results to highlight the importance of trends.
 
