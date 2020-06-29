@@ -46,8 +46,6 @@ The judges remarked that *"all projects showed a fantastic level of data savvine
 [Mark Kleyner](https://www.linkedin.com/in/markkleyner/) - MA in Geography and Economics, Year 2  
 [Nia Indigo Allen-Cooper](https://www.linkedin.com/in/nia-allen-cooper) - MMath Mathematics, Year 3  
 
-I’m a second year student (starting third year in September) studying BSc Computer Science and Mathematics. My LinkedIn profile: 
-
 ✨ [Interactive app](https://phoenix-datafest.herokuapp.com)   
 📃 [Writeup](https://github.com/datafest-edi/datafest-2020/tree/master/project-08)  
 📦 [GitHub repository](https://github.com/aditya101099/Edi-DataFest-2020)  
