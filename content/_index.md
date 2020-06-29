@@ -41,10 +41,10 @@ The judges remarked that *"all projects showed a fantastic level of data savvine
 
 #### Surges in searches during the UK lockdown
 
-[Aditya Rudrapatna](https://www.linkedin.com/in/aditya-r-0ab3b277/) - BSc in Computer Science and Mathematics, Year 2 
-[Lauryn Mwale](https://www.linkedin.com/in/lauryn-mwale/) - BSc Mathematics, Year 3
-[Mark Kleyner](https://www.linkedin.com/in/markkleyner/) - MA in Geography and Economics, Year 2
-[Nia Indigo Allen-Cooper](https://www.linkedin.com/in/nia-allen-cooper) - MMath Mathematics, Year 3
+[Aditya Rudrapatna](https://www.linkedin.com/in/aditya-r-0ab3b277/) - BSc in Computer Science and Mathematics, Year 2  
+[Lauryn Mwale](https://www.linkedin.com/in/lauryn-mwale/) - BSc Mathematics, Year 3  
+[Mark Kleyner](https://www.linkedin.com/in/markkleyner/) - MA in Geography and Economics, Year 2  
+[Nia Indigo Allen-Cooper](https://www.linkedin.com/in/nia-allen-cooper) - MMath Mathematics, Year 3  
 
 I’m a second year student (starting third year in September) studying BSc Computer Science and Mathematics. My LinkedIn profile: 
 
@@ -80,11 +80,11 @@ The judges really liked the "why this matters" section of the writeup and commen
 
 #### Searching US in Covid-19
 
-Natasha Rinta Dustan - BSc in Mathematics and Statistics, Year 3
-Ng Jie Xin - BSc in Mathematics and Music, Year 2 
-[Divy Bramhecha](https://www.linkedin.com/in/divy-bramhecha/) - BSc in AI, Year 2
+Natasha Rinta Dustan - BSc in Mathematics and Statistics, Year 3  
+Ng Jie Xin - BSc in Mathematics and Music, Year 2  
+[Divy Bramhecha](https://www.linkedin.com/in/divy-bramhecha/) - BSc in AI, Year 2  
 
-📹 Video: **[NEED LINK]**  
+📹 [Video](https://youtu.be/30CHqnLB_5E)  
 ✨ [Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)  
 
 How many confirmed cases till countries decided go into lockdown? How closely are people adhering to lockdown guidelines? Are people concerned about taking preventative measures against a global pandemic? Using Google mobility trends as well as search trends for keywords like 'face mask', 'sanitiser (sanitizer)' , 'social distancing', etc. , We looked into these issues, focusing especially on members' home countries including India and Malaysia. Comparing these results against countries like the US and UK, the team investigates whether there is a difference in the degree of interest and awareness towards Covid-19 between East and West.
