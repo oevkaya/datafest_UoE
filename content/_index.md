@@ -60,9 +60,9 @@ The judges commended the description that accompanies every trend presented in t
 
 #### Societal impacts of the COVID-19 pandemic on education in the United States
 
-Jaden Kimura - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Kaori Shimizu - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Claire Squires - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+[Jaden Kimura](http://linkedin.com/in/jaden-kimura-9381a7188)
+Kaori Shimizu - BSc Hons Mathematics and Statistics, Year 3
+Claire Squires - BSc Hons Cognitive Science, Year 2
 
 📹 [Video presentation](https://www.youtube.com/watch?v=ey_PL0gF-oY)  
 ✨ [Interactive app](https://datafest2020.shinyapps.io/TheDataQuails)  
@@ -95,10 +95,10 @@ The judges commended the team for combining multiple different datasets and crea
 
 #### Relationship between dengue fever outbreak and lockdown
 
-Justin Yeo - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Prakash Nair - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Eman Wong - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
-Owen Lee - **NEED YEAR / PROGRAM / LINK TO HOMEPAGE**  
+Eman Wong - BSc Mathematics and Statistics, Year 2
+Justin Yeo - BSc Mathematics, Year 2
+Owen Lee - BEng Computer Science, Year 1
+Prakash Nair - MA Economics and Statistics, Year 1
 
 🖥 [Slide deck](https://github.com/datafest-edi/datafest-2020/blob/master/project-03/presentation.pdf)  
 📃 [Writeup](https://github.com/datafest-edi/datafest-2020/blob/master/project-03/writeup.pdf)  
