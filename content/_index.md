@@ -8,7 +8,7 @@ markup: "mmark"
 <img src="img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
 
 <h4>
-ASA DataFest 2021 @ Edinburgh will be held **virtually** over the **March 26-28, 2021** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
+ASA DataFest 2021 @ Edinburgh will be held **virtually** over the **March 26 - 28, 2021** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
 
 Click [here](/signup) to sign up, *deadline is March 19, 2021!* 
 

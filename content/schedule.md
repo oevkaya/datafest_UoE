@@ -9,25 +9,25 @@ All events take place @ Bayes Centre
 
 **Welcome!**
 
-- 6-7pm - Kickoff & Meet the data - Zoom
+6-7pm - Kickoff & Meet the data on GatherTown.
 
-Consultants available for help until midnight, you can work as late as you like.
+Consultants available for help until midnight on Slack, you can work as late as you like.
 
 ### Saturday, 27 March 2020
 
 **Carry on!**
 
-Morning, afternoon, and evening virtual get togethers on GatherTown
+Morning, afternoon, and evening virtual get togethers on GatherTown.
 
-Consultants available for help until midnight, you can work as late as you like.
+Consultants available for help until midnight on Slack, you can work as late as you like.
 
 ### Sunday, 15 March 2020
 
 **Wrap up!**
 
-Morning and noon virtual get togethers on GatherTown
+Morning and noon virtual get togethers on GatherTown.
 
-Consultants available for help until 5:00 pm.
+Consultants available for help until 4:00 pm on Slack.
 
 Submit by 5pm.
 

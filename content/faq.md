@@ -34,7 +34,7 @@ which software you use) and enthusiasm for data. See [here](https://www.ed.ac.uk
 
 #### <i class="fas fa-question-circle fa-fw"></i> What are the rules of the competition?
 
-- All projects must be submitted by **March 28, 2020 at 5:00 BST**. There is only one submission per team. 
+- All projects must be submitted by **March 28, 2020 at 5:00 UK time**. There is only one submission per team. 
 - The data used in the project must be publicly available or openly licensed.
 - All video submissions must be no longer than 5 minutes. 
 - All interactive dashboards must be deployed online.
