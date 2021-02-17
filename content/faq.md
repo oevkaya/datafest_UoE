@@ -76,4 +76,4 @@ ASA DataFest<sup><small>TM</small></sup> is growing fast! See <a href="http://ww
 
 #### <i class="fas fa-question-circle fa-fw"></i> Other questions?
 
-Please don't hesitate to contact [Dr. Mine Çetinkaya-Rundel](mailto:mcetinka@ed.ac.uk) with any questions.
+Please don't hesitate to contact [Dr. Mine Çetinkaya-Rundel](mailto:mcetinka@ed.ac.uk), [Dr. Serveh Sharifi Far](mailto:serveh.sharifi@ed.ac.uk), or [David Elliott](mailto:david.elliott@ed.ac.uk) with any questions.
