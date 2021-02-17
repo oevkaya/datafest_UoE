@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DataFest 2020 @ EDI on DataFest @ EDI</title>
+    <title>DataFest 2021 @ EDI on DataFest @ EDI</title>
     <link>/</link>
-    <description>Recent content in DataFest 2020 @ EDI on DataFest @ EDI</description>
+    <description>Recent content in DataFest 2021 @ EDI on DataFest @ EDI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>What is DataFest? ASA DataFestTM is a data analysis competition where teams of up to five students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun!
-ASA DataFestTM is also a great opportunity to gain experience that employers are looking for.</description>
-    </item>
     
     <item>
       <title>Code of Conduct</title>
@@ -30,32 +20,23 @@ ASA DataFestTM is also a great opportunity to gain experience that employers are
     </item>
     
     <item>
-      <title>Competition Details</title>
-      <link>/details/</link>
+      <title>DataFest 2020</title>
+      <link>/df2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/details/</guid>
-      <description>When is the competition? The competition is May 30 through June 13. All projects must be submitted by June 13, 2020 at 11:59pm BST.
-
-Who is eligible to participate? The competition is open to all undergraduate students at University of Edinburgh.
-
-How large are the teams? Teams can be made up of 2 to 5 students.
-
-Do I have to compete in a team? DataFest is a collaborative competition, so we strongly encourage you to work in a team to honor the spirit of the competition.</description>
+      <guid>/df2020/</guid>
+      <description>Eight teams participated in the DataFest @ EDI 2020 - COVID-19 Virtual Data Challenge over two weeks between 30 May and 13 June, 2020.
+For this competition, we challenged participants to explore the societal impacts of the COVID-19 pandemic other than its direct health outcomes. Participants were allowed to explore everything from the effects on pollution levels, transportation levels, or working from home. They could investigate changes in the number of people posting on TikTok with their families or do an analysis on online education.</description>
     </item>
     
     <item>
-      <title>DataFest 2020 Sponsors</title>
+      <title>DataFest 2021 Sponsors</title>
       <link>/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sponsors/</guid>
-      <description>ASA DataFestTM at University of Edinburgh cannot run without your support! Click here to find out more about how you can support DataFest at University of Edinburgh, and don&#39;t hesitate to contact us with sponsorship questions.
-Huge thanks to our sponsors, and we&#39;re hoping to add more to this list!
-Support DataFest 2020
-
-Cauchy Sponsor 
-The School of Mathematics at The University of Edinburgh is situated in the James Clerk Maxwell Building within the King&#39;s Buildings campus.</description>
+      <description>ASA DataFestTM at University of Edinburgh cannot run without your support! Since we&#39;re running the event virtually this year our financial costs will be low but we need lots of mentor hours so we hope that you&#39;ll consider supporting us with your time this year! Click here as a mentor.
+Click here to find out more about how you can support DataFest at University of Edinburgh, and don&#39;t hesitate to contact us with sponsorship questions.</description>
     </item>
     
     <item>
@@ -66,19 +47,6 @@ The School of Mathematics at The University of Edinburgh is situated in the Jame
       <guid>/faq/</guid>
       <description>How do I sign up? Click here to sign up. Please fill out the form fully. You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early! The registration deadline is Friday, 21 February, at 17:00.
  Is there a registration fee? No, there is no registration fee. However note that the event takes significant resources to run.</description>
-    </item>
-    
-    <item>
-      <title>Media</title>
-      <link>/media/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/media/</guid>
-      <description>If you would like to write about or cover ASA DataFestTM in any way, please don&#39;t hesitate to contact us.
- DataFest Shows Spike in Growth, Provides Immersive Experience - AMSTAT News, September 1, 2017
- Edmunds.com sponsors data set for fifth ASA DataFest at UCLA - Daily Bruin - April 27, 2015
- DataFest draws hundreds to solve stats challenges - The Chronicle - 23 March 2015
- A Festival of Data: Student Perspectives - AMSTAT News, 1 September 2014</description>
     </item>
     
     <item>
@@ -103,10 +71,12 @@ The School of Mathematics at The University of Edinburgh is situated in the Jame
       
       <guid>/schedule/</guid>
       <description>All events take place @ Bayes Centre
-Friday, 13 March 2020 Welcome!
- 4-6pm - Registration 6-7pm - Kickoff &amp;amp; Meet the data - G.03 7pm - Dinner  Consultants available for help until midnight, you can work as late as you like.
-Saturday, 14 March 2020 Carry on!
- 9am - Breakfast 12:30pm - Lunch 5:30pm - Group photo 6:00pm - Dinner 11:50pm - Midnight snack  Consultants available for help until midnight, you can work as late as you like.</description>
+Friday, 26 March 2020 Welcome!
+ 6-7pm - Kickoff &amp;amp; Meet the data - Zoom  Consultants available for help until midnight, you can work as late as you like.
+Saturday, 27 March 2020 Carry on!
+Morning, afternoon, and evening virtual get togethers on GatherTown
+Consultants available for help until midnight, you can work as late as you like.
+Sunday, 15 March 2020 Wrap up!</description>
     </item>
     
     <item>
@@ -115,7 +85,7 @@ Saturday, 14 March 2020 Carry on!
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/signup/</guid>
-      <description>Registration is closed as of Saturday, May 30 at 11:59pm BST.
+      <description>Sign up forms will be available shortly!
  --  Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMTZVUjVBR0sySDZKR0VORjVFSFVXMFRNSS4u) to sign up as a team of 4 to 5 students. Students signing up in this category will be given priority. ### Option 2: Team sign-up (2-3 students)  Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUQTlVUlRGQU43NjIxWEwxMVVETTZLWlpLWS4u) to sign up as a team of 2 to 3 students. Students signing up in this category will be added to the roster if there are seats open as of Fridsy, 21 Feb, 2020.</description>
     </item>
     

@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
     <loc>/archives/</loc>
   </url>
   
@@ -19,7 +15,7 @@
   </url>
   
   <url>
-    <loc>/details/</loc>
+    <loc>/df2020/</loc>
   </url>
   
   <url>
@@ -32,10 +28,6 @@
   
   <url>
     <loc>/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>/media/</loc>
   </url>
   
   <url>
