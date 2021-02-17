@@ -3,9 +3,9 @@ title: "Schedule"
 markup: "mmark"
 ---
 
-All events take place @ Bayes Centre
+All events take place virtually. We'll use Slack and GatherTown, primarily, for communication.
 
-### Friday, 26 March 2020
+### Friday, 26 March 2021
 
 **Welcome!**
 
@@ -13,7 +13,7 @@ All events take place @ Bayes Centre
 
 Consultants available for help until midnight on Slack, you can work as late as you like.
 
-### Saturday, 27 March 2020
+### Saturday, 27 March 2021
 
 **Carry on!**
 
@@ -21,7 +21,7 @@ Morning, afternoon, and evening virtual get togethers on GatherTown.
 
 Consultants available for help until midnight on Slack, you can work as late as you like.
 
-### Sunday, 15 March 2020
+### Sunday, 15 March 2021
 
 **Wrap up!**
 
