@@ -7,6 +7,22 @@ markup: "mmark"
 
 <img src="img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
 
+<h4>
+ASA DataFest 2021 @ Edinburgh will be held **virtually** over the **March 26-28, 2021** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
+
+Click [here](/signup) to sign up, *deadline is March 19, 2021!* 
+
+The competition is open to all **undergraduate** students from The University of Edinburgh and Heriot-Watt University. 
+
+Postgraduate students and staff are welcomed to attend as mentor, and they can also sign up as mentors [here](/signup).
+
+Have questions about the event? Read below and head over to the [FAQ](/faq)!
+</h3>
+
+<br>
+
+<hr>
+
 ### What is DataFest?
 
 ASA DataFest<sup><small>TM</small></sup> is a data analysis competition where teams of up to five students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun!
@@ -27,6 +43,10 @@ While ASA DataFest<sup><small>TM</small></sup> is a competition, the main goal o
 
 
 ### Past DataFests
+
+#### 2020 - COVID-19
+
+**Goal:** For this competition, we challenged participants to explore the societal impacts of the COVID-19 pandemic other than its direct health outcomes. Participants were allowed to explore everything from the effects on pollution levels, transportation levels, or working from home. They could investigate changes in the number of people posting on TikTok with their families or do an analysis on online education. We left the focus up to them and urged them to be thoughtful and creative as they analyzed data and communicated their insights about some of pandemic's impacts on society. Click [here](/df2020) to read more about the submissions from the winning teams at ASA DataFest 2020 @ EDI.
 
 #### 2019 - Canadian National Women's Rugby Team
 

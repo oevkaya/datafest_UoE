@@ -1,13 +1,15 @@
 ---
-title: "DataFest 2020 Sponsors"
+title: "DataFest 2021 Sponsors"
 markup: "mmark"
 ---
 
-ASA DataFest<small><sup>TM</sup></small> at University of Edinburgh cannot run without your support! Click [here](/sponsorship) to find out more about how you can support DataFest at University of Edinburgh, and don't hesitate to [contact us](mailto:mcetinka@ed.ac.uk) with sponsorship questions.
+ASA DataFest<small><sup>TM</sup></small> at University of Edinburgh cannot run without your support! Since we're running the event virtually this year our financial costs will be low but we need lots of mentor hours so we hope that you'll consider supporting us with your time this year! Click [here](/signup) as a mentor.
+
+Click [here](/sponsorship) to find out more about how you can support DataFest at University of Edinburgh, and don't hesitate to [contact us](mailto:mcetinka@ed.ac.uk) with sponsorship questions.
 
 Huge thanks to our sponsors, and we're hoping to add more to this list!
 
-<a href="/sponsorship" class="btn btn-primary" role="button">Support DataFest 2020</a>
+<a href="/sponsorship" class="btn btn-primary" role="button">Support DataFest 2021</a>
 
 <br>
 
@@ -31,6 +33,7 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 
 <br><br>
 
+<!-- 
 ### Individual Sponsor
 
 <br>
@@ -41,8 +44,11 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 
 <br><br>
 
+-->
+
 #### Acknowledgements
 
+<!-- 
 <br>
 
 <img style="width:500px;float: left;padding-right:20px" src="/logos/Bayes-logo-blue.jpg">
@@ -50,6 +56,8 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 [Bayes Centre](https://www.ed.ac.uk/bayes) is The University of Edinburgh's Innovation Hub for Data Science and Artificial Intelligence.
 
 <br><br><br>
+
+--> 
 
 <img style="width:500px;float: left;padding-right:20px" src="/logos/asa.png">
 

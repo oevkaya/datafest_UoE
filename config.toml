@@ -101,5 +101,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   dateFormat = "2 January 2006"
-  background = "https://github.com/mine-cetinkaya-rundel/datafest-edi/blob/master/content/img/background.jpg?raw=true"
+  background = "https://github.com/mine-cetinkaya-rundel/datafest-edi/blob/master/content/img/edi.jpg?raw=true"
+  background2020 = "https://github.com/mine-cetinkaya-rundel/datafest-edi/blob/master/content/img/df2020.jpg?raw=true"
   favicon = ""

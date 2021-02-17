@@ -3,7 +3,7 @@ title: "Sign up"
 markup: "mmark"
 ---
 
-Registration is closed as of **Saturday, May 30 at 11:59pm BST**.
+Sign up forms will be available shortly!
 
 <!--
 
