@@ -1,124 +1,79 @@
 ---
-title: "DataFest 2020 @ EDI"
-description: "COVID-19 Virtual Data Challenge"
+title: "DataFest 2021 @ EDI"
+description: "University of Edinburgh & Heriot-Watt"
 location: ""
 markup: "mmark"
 ---
 
 <img src="img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
 
-## DataFest 2020 Results
+### What is DataFest?
 
-Eight teams participated in the DataFest @ EDI 2020 - COVID-19 Virtual Data Challenge over two weeks between 30 May and 13 June, 2020. 
+ASA DataFest<sup><small>TM</small></sup> is a data analysis competition where teams of up to five students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun!
 
-For this competition, we challenged participants to explore the societal impacts of the COVID-19 pandemic other than its direct health outcomes. Participants were allowed to explore everything from the effects on pollution levels, transportation levels, or working from home. They could investigate changes in the number of people posting on TikTok with their families or do an analysis on online education. We left the focus up to them and urged them to be thoughtful and creative as they analyzed data and communicated their insights about some of pandemic's impacts on society.
+ASA DataFest<sup><small>TM</small></sup> is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.
 
-Specifically for this challenge the participants were asked to
+ASA DataFest<sup><small>TM</small></sup> at University of Edinburgh is organized by the School of Mathematics.
 
-- choose an outcome such as one of the ones listed above,
-- find the appropriate data to explore the effect of the COVID-19 pandemic on this issue, and
-- present their findings (along with the dataset they used).
+### Testimonials
 
-We have always framed ASA DataFest as a collaborative competition, but this was even more true this year. We encouraged participants, this year more than ever, to share sources they found useful, approaches they found to be fruitful, or methods they want to learn more about with each other.
+While ASA DataFest<sup><small>TM</small></sup> is a competition, the main goal of the event is to promote collaboration. Here are some testimonials from past participants:
 
-Over the two week period participants conversed with each other and mentors on a Slack channel dedicated to this event and we held two virtual get-togethers -- one to kick off the event and the other as a Q&A session, along with participants from University of Toronto who were also working on the same challenge as part of their DataFest event.
+>*It was a great experience, with a fun and interesting challenge. One of my favorite parts is how varied the presentations and projects from each team are. I love learning about ways in which others looked at and analyzed the same problem/ data.*  
 
-## Judging
+<br>
 
-Our judges for this year's DataFest @ EDI were
+>*DataFest was an awesome experience. To me, the best part was working in a team of friends that I usually hung out with, but had not had a chance to work together intensively on a project. We enjoyed analyzing the situations and solving problems together for our client. At the end of the day, we just got to know each other better. It was also fun to interact with other teams to explore other approaches while keeping in mind that we were in competition. The fact that we were given a huge amount of data really challenges us to come up with creative and practical approaches. Another important part was the presentation. Every team had to explain well to the judges their objectives and solutions. Our team won the Best Visualization award which is really awesome. Lastly, the food was fantastic.*
 
-- [Ksenia Aleksankina](https://www.linkedin.com/in/ksenia-aleksankina-62816980/) - Data Scientist, TravelNest
-- [John MacInnes](http://www.sps.ed.ac.uk/q-step/about_us/people/macinnes_john) - Emeritus Professor of Sociology and Statistics at The University of Edinburgh
-- [Riinu Pius](https://www.riinu.me/) - Senior Data Manager at The University of Edinburgh, Clinical Surgery
 
-The judges first reviewed the submissions from participants independently and scored them, and then deliberated on a Zoom call to make final decisions on winners. 
+### Past DataFests
 
-The judges remarked that *"all projects showed a fantastic level of data savviness and the technical expertise to source, wrangle analyse, and present data, and some were simply outstanding!"*
+#### 2019 - Canadian National Women's Rugby Team
 
-## Awards
+**Goal:** How do we quantify the role of fatigue and workload in a team’s performance in Rugby 7s? How reliable are the subjective wellness Fata? Should the quality of the opponent or the outcome of the game be considered when examining fatigue during a game? Can widely used measurements of training load and fatigue be improved? How reliable are GPS data in quantifying fatigue?
 
-### 🏆 Best insight: Team Phoenix
+#### 2018 - Indeed
 
-#### Surges in searches during the UK lockdown
+**Goal:** What advice would you give a new high school about what major to choose in college? How does Indeed's data compare to official government data on the labor market? Can it be used to provide good economic indicators?
 
-[Aditya Rudrapatna](https://www.linkedin.com/in/aditya-r-0ab3b277/) - BSc in Computer Science and Mathematics, Year 2  
-[Lauryn Mwale](https://www.linkedin.com/in/lauryn-mwale/) - BSc Mathematics, Year 3  
-[Mark Kleyner](https://www.linkedin.com/in/markkleyner/) - MA in Geography and Economics, Year 2  
-[Nia Indigo Allen-Cooper](https://www.linkedin.com/in/nia-allen-cooper) - MMath Mathematics, Year 3  
+#### 2017 - Expedia
 
-✨ [Interactive app](https://phoenix-datafest.herokuapp.com)   
-📃 [Writeup](https://github.com/datafest-edi/datafest-2020/tree/master/project-08)  
-📦 [GitHub repository](https://github.com/aditya101099/Edi-DataFest-2020)  
+**Goal:** How do visitors' searches relate to the choices of hotels booked or not booked? What role do external factors play in hotel choice?
 
-Team Phoenix was tasked with exploring the societal impacts of COVID-19 beyond health outcomes. They decided to investigate whether there were surges in certain searches during the UK lockdown. While UK lockdowns began on March 23rd, they chose to study the March 1st - May 25th period, hypothesising that many people would have begun to change their search preferences 2-3 weeks before in anticipation. They limited the search period to May 25th, the day George Floyd died, so that results wouldn’t be skewed by the BLM movement & protest news. Google Trends provides data on the relative search volumes (RSV) of topics and queries over time and across geographical areas. Team Phoenix used this to analyse changing public interests during the pandemic.
+Expedia provided DataFesters with data from search results from millions of visitors around the world who were interested in traveling to destinations all over the world. The data were in two files, one of which included data collected on search results from visitors' sessions, and another which contained detailed information about the destinations that visitors searched for.
 
-The judges commended the description that accompanies every trend presented in the dashboard and remaked that they were genuinely interested to read these explanations.
+#### 2016 - Ticketmaster
 
----
+**Goal:** How can site visits be converted to ticket sales, and how can TicketMaster identify "true fans" of an artist or band?
 
-### 🏆 Most creative topic: The Data Quails
+Data consisted of three sets. One included events from the last 12 months that tracked customer travel through the website. Another provided information about advertising campaigns on Google, and the third included data on the events themselves.
 
-#### Societal impacts of the COVID-19 pandemic on education in the United States
+#### 2015 - Edmunds.com
 
-[Jaden Kimura](http://linkedin.com/in/jaden-kimura-9381a7188)
-Kaori Shimizu - BSc Hons Mathematics and Statistics, Year 3
-Claire Squires - BSc Hons Cognitive Science, Year 2
+**Goal:** Detect insights into the process of car shopping that can help make the process easier for customers.
 
-📹 [Video presentation](https://www.youtube.com/watch?v=ey_PL0gF-oY)  
-✨ [Interactive app](https://datafest2020.shinyapps.io/TheDataQuails)  
-📦 [GitHub repository](https://github.com/clairesquires99/TheDataQuails)  
+Data consist of visitor 'pathways' through a website that helps customers configure car features and shop for cars. Five data files were linked by a customer key, and including data about the customer, about his or her visits to the webpage, and, when applicable, about the car purchased and the dealership where the car was purchased.
 
-The COVID-19 pandemic resulted in the US government enforcing lockdown measures and social distancing, forcing many schools to close. Schools have thus shifted to teaching students remotely, making student’s access to the internet vital for their education. Hence, The Data Quails chose to investigate student’s access to the internet and devices for learning purposes as education continues to shift online. An analysis of student’s access to these two resources can provide valuable insight into understanding how traditional models of education have transformed considering the COVID-19 pandemic. It remains true that these resources are not universally accessible and that socio-economic factors such as income or food sufficiency can correlate with whether students have access to these resources.
+#### 2014 - GridPoint
 
-The judges really liked the "why this matters" section of the writeup and commended the app and video.
+**Goal:** Help understand how customers can best save money and energy.
 
----
+Data consisted of a random sample of customers, with five-minute aggregates over a year of energy consumption that was then aggregated across important features of the commercial properties, as well as supporting climate and location data.
 
-### 🏆 Judge’s pick - Divy and friends	
+#### 2013 - eHarmony
 
-#### Searching US in Covid-19
+**Goal:** Help understand what qualities people look for in prospective dates.
 
-[Natasha Rinta Dustan](https://www.linkedin.com/in/natasha-rinta-dunstan-5a64771b1/?fbclid=IwAR1_rybpy2ZSh-Wj-k5qz6jZ-eIRegZ7nZVYk-CQB8JbEjTTutIGuhd_J2Y) - BSc in Mathematics and Statistics, Year 3  
-Jie Xin Ng - BSc in Mathematics and Music, Year 2  
-[Divy Bramhecha](https://www.linkedin.com/in/divy-bramhecha/) - BSc in AI, Year 2  
+The DataFest students worked with a large sample of prospective matches. For each customer, data were provided on his or her preferences, as well as four matches, their preferences, and information about whether parties contacted one another.
 
-📹 [Video](https://youtu.be/30CHqnLB_5E)  
-✨ [Interactive app](https://public.tableau.com/profile/divy.bramhecha#!/vizhome/SearchingusinCovid-19_/Dashboard1)  
+#### 2012 - Kiva.com
 
-How many confirmed cases till countries decided go into lockdown? How closely are people adhering to lockdown guidelines? Are people concerned about taking preventative measures against a global pandemic? Using Google mobility trends as well as search trends for keywords like 'face mask', 'sanitiser (sanitizer)' , 'social distancing', etc. We looked into these issues, focusing especially on members' home countries including India and Malaysia. Comparing these results against countries like the US and UK, the team investigates whether there is a difference in the degree of interest and awareness towards Covid-19 between East and West.
+**Goal:** Help understand what motivates people to lend money to developing-nation entrepreneurs and what factors are associated with paying these loans.
 
-The judges commended the team for combining multiple different datasets and creating a comprehensive dashboard. They also recommended editing the dashboard to remove extraneous background images so the data and findings could shine better as well as synthesizing the results to highlight the importance of trends.
+Several data sets were provided, including characteristics of lenders and borrowers and loan pay-back data.
 
----
+#### 2011 - Los Angeles Police Department
 
-### 🏅 Honourable mention - Most creative topic: lemonchocolatecheesecake
+**Goal:** Make a data-based policy proposal to reduce crime
 
-#### Relationship between dengue fever outbreak and lockdown
-
-Eman Wong - BSc Mathematics and Statistics, Year 2
-Justin Yeo - BSc Mathematics, Year 2
-Owen Lee - BEng Computer Science, Year 1
-Prakash Nair - MA Economics and Statistics, Year 1
-
-🖥 [Slide deck](https://github.com/datafest-edi/datafest-2020/blob/master/project-03/presentation.pdf)  
-📃 [Writeup](https://github.com/datafest-edi/datafest-2020/blob/master/project-03/writeup.pdf)  
-📦 [GitHub repository](https://github.com/w0en/datafest2020)  
-
-With team members from Singapore and Malaysia, Team lemonchocolatecheesecake decided to focus on Singapore’s COVID-19 lockdown measures (named Circuit Breaker) which happened to coincide with an outbreak of the dengue virus (which causes dengue fever). They investigated if the dengue fever outbreak could be attributed to the Circuit Breaker, or alternatively if the Circuit Breaker had worsened the dengue fever outbreak.
-
-The judges thought the dengue fever angle was very creative and enjoyed this exploration. They also recommended including visualisations and reformatting R statistical results into a more presentable form, e.g. using the broom package.
-
----
-  
-## Other submissions
-
-As our judges remarked, all entries were fantastic and making a choice was difficult! Here are the rest of the entries from DataFest 2020 @ EDI. 
-
-- Matthew Dailey - [What the World Searched for; Coronavirus and Google](https://github.com/datafest-edi/datafest-2020/tree/master/project-01)
-- Popo's Favourites (Alex Terry, Sahara Matic, Sofiya Yatsyna) - [An investigation into how food production has been affected by Covid-19](https://github.com/datafest-edi/datafest-2020/tree/master/project-02)
-- BackRow (Andrej Jovanović, Zeno Kujawa and Mantas Rumskas) - [The impact of COVID-19 on happiness](https://github.com/datafest-edi/datafest-2020/tree/master/project-04)
-- The Tiroleans (Rebecca Collins, Simon Kaufmann) - [UK Government Approval During Covid-19 Pandemic](https://github.com/datafest-edi/datafest-2020/tree/master/project-07)
-
----
-
-Congratulations to all participants and especially to the winners! And we hope to see you back at DataFest 2021!
+Data consisted of arrest records for every arrest in Los Angeles from 2005-2010, including time, location, and weapons involved.
