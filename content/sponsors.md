@@ -3,7 +3,7 @@ title: "DataFest 2021 Sponsors"
 markup: "mmark"
 ---
 
-ASA DataFest<small><sup>TM</sup></small> at University of Edinburgh cannot run without your support! Since we're running the event virtually this year our financial costs will be low but we need lots of mentor hours so we hope that you'll consider supporting us with your time this year! Click [here](/signup) as a mentor.
+ASA DataFest<small><sup>TM</sup></small> at University of Edinburgh cannot run without your support! Since we're running the event virtually this year our financial costs will be low but we need lots of consultant hours so we hope that you'll consider supporting us with your time this year! Click [here](/signup) as a consultant.
 
 Click [here](/sponsorship) to find out more about how you can support DataFest at University of Edinburgh, and don't hesitate to [contact us](mailto:mcetinka@ed.ac.uk) with sponsorship questions.
 

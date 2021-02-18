@@ -14,7 +14,7 @@ Click [here](/signup) to sign up, *deadline is March 19, 2021!*
 
 The competition is open to all **undergraduate** students from The University of Edinburgh and Heriot-Watt University. 
 
-Postgraduate students and staff are welcomed to attend as mentor, and they can also sign up as mentors [here](/signup).
+Postgraduate students and staff are welcomed to attend as consultants, and they can also sign up [here](/signup).
 
 Have questions about the event? 
 
