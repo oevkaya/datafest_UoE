@@ -16,8 +16,17 @@ The competition is open to all **undergraduate** students from The University of
 
 Postgraduate students and staff are welcomed to attend as mentor, and they can also sign up as mentors [here](/signup).
 
-Have questions about the event? Read below and head over to the [FAQ](/faq)!
+Have questions about the event? 
+
+- Read below and head over to the [FAQ](/faq)!
+- Attend the info session: 3 March 2021, 10:30-11am
 </h3>
+
+<details>
+<summary>Zoom link for info session</summary>
+https://ed-ac-uk.zoom.us/j/89960809945
+Passcode: datafest21
+</details>
 
 <br>
 
