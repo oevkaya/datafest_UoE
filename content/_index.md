@@ -19,12 +19,12 @@ Postgraduate students and staff are welcomed to attend as mentor, and they can a
 Have questions about the event? 
 
 - Read below and head over to the [FAQ](/faq)!
-- Attend the info session: 3 March 2021, 10:30-11am
+- Attend the **info session**: 3 March 2021, 10:30-11am
 </h3>
 
 <details>
 <summary>Zoom link for info session</summary>
-https://ed-ac-uk.zoom.us/j/89960809945
+https://ed-ac-uk.zoom.us/j/89960809945 <br>
 Passcode: datafest21
 </details>
 
