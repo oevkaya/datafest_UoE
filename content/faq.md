@@ -9,11 +9,15 @@ Click <a href="/signup">here</a> to sign up. Please fill out the form fully. You
 
 #### <i class="fas fa-question-circle fa-fw"></i> Is there a registration fee?
 
-No, there is no registration fee. However note that the event takes significant resources to run. So, if you sign up, we expect that you show up! If your plans change, [let us know](mailto:mcetinka@ed.ac.uk) ASAP so we can make your spot available to someone else.
+No, there is no registration fee. However note that the event takes significant resources to run. So, if you sign up, we expect that you show up! If your plans change, [let us know](mailto:david.elliott@ed.ac.uk) ASAP so we can make your spot available to someone else.
 
 #### <i class="fas fa-question-circle fa-fw"></i> Who is eligible to compete?</h4>
 
 All University of Edinburgh and Heriot-Watt undergraduate students are eligible.
+
+#### <i class="fas fa-question-circle fa-fw"></i> What are the prizes?</h4>
+
+Prizes include medals, student memberships to the American Statistical Association, and e-student memberships to the Royal Statistical Society with free print copies of the Significance magazine. We'll have a few other surprises as well!
 
 #### <i class="fas fa-question-circle fa-fw"></i> What about MSc and PhD students?
 
