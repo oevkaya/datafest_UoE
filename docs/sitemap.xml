@@ -1,57 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/archives/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/coc/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/df2020/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/sponsors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/faq/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/resources/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/schedule/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/signup/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/sponsorship/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/workshops/</loc>
   </url>
-  
 </urlset>

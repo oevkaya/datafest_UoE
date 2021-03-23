@@ -5,11 +5,7 @@
     <link>/</link>
     <description>Recent content in DataFest 2021 @ EDI on DataFest @ EDI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code of Conduct</title>
       <link>/coc/</link>
@@ -70,13 +66,14 @@ Click here to find out more about how you can support DataFest at University of 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description>All events take place virtually. We&#39;ll use Slack and GatherTown, primarily, for communication.
+      <description>All events take place virtually. We&#39;ll use Slack and Gather for communication.
 Friday, 26 March 2021 Welcome!
-6-7pm - Kickoff &amp;amp; Meet the data on GatherTown.
-Consultants available for help until midnight on Slack, you can work as late as you like.
+📣 6-6:30pm - Kickoff &amp;amp; Meet the data on Gather lecture hall
+🍻 9-9:30pm - Social hour on Gather rooftop
+Consultants available for help until midnight on Gather, you can work as late as you like.
 Saturday, 27 March 2021 Carry on!
-Morning, afternoon, and evening virtual get togethers on GatherTown.
-Consultants available for help until midnight on Slack, you can work as late as you like.</description>
+☕️ 11-11:30am - Social hour on Gather rooftop
+🍻 9-9:30pm - Social hour on Gather rooftop</description>
     </item>
     
     <item>
