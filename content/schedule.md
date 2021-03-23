@@ -3,34 +3,37 @@ title: "Schedule"
 markup: "mmark"
 ---
 
-All events take place virtually. We'll use Slack and GatherTown, primarily, for communication.
+All events take place virtually. We'll use Slack and Gather for communication.
 
 ### Friday, 26 March 2021
 
 **Welcome!**
 
-6-7pm - Kickoff & Meet the data on GatherTown.
+📣 6-6:30pm - Kickoff & Meet the data on Gather lecture hall  
+🍻 9-9:30pm - Social hour on Gather rooftop  
 
-Consultants available for help until midnight on Slack, you can work as late as you like.
+Consultants available for help until midnight on Gather, you can work as late as you like.
 
 ### Saturday, 27 March 2021
 
 **Carry on!**
 
-Morning, afternoon, and evening virtual get togethers on GatherTown.
+☕️ 11-11:30am - Social hour on Gather rooftop  
+🍻 9-9:30pm - Social hour on Gather rooftop  
 
-Consultants available for help until midnight on Slack, you can work as late as you like.
+Consultants available for help until midnight on Gather, you can work as late as you like.
 
-### Sunday, 15 March 2021
+### Sunday, 28 March 2021
 
 **Wrap up!**
 
-Morning and noon virtual get togethers on GatherTown.
+☕️ 11-11:30am - Social hour on Gather rooftop  
+🛑 5pm - Submission deadline  
 
-Consultants available for help until 4:00 pm on Slack.
+Consultants available for help until 5:00 pm on Gather.
 
-Submit by 5pm.
-
-### TBD
+### Friday, 2 April
 
 **Award ceremony**
+
+🏆 12-12:30pm - Award ceremony on Zoom
