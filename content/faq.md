@@ -51,12 +51,11 @@ Once the registration window closes, participants will receive an email with a l
 
 #### <i class="fas fa-question-circle fa-fw"></i> What will I submit?
 
-There should only be one submission per team. Your submission should include
+There should only be one submission per team. Each team will have 6 minutes to present their findings to the judges. That’s exactly 6 minutes, not 6 minutes and a few additional seconds, but it’s perfectly fine if your presentation is shorter. All team members should take part in the presentation. You will record this presentation using any tool you like. The easiest option might be to set up a Zoom call with your team and record it. We don’t expect any fancy editing, we just want to be able to see your slides/visualizations well and hear you well.
 
-- EITHER a slide deck (maximum 3 content slides + title slide) *<u>OR</u>* an interactive app / dashboard
-- EITHER a 5 minute video or screencast *<u>OR</u>* a one-page write up (single spaced).
-- Link to code on GitLab or GitHub, if applicable
-- Link to data source(s)
+Along with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.
+
+If you’re also using a slide deck for your video, you should submit that as well. Or if you’ve made a web app, that must be deployed on the web and the link must be included in your write up. In short, make sure you give the judges everything they’ll need to evaluate your work.
 
 #### <i class="fas fa-question-circle fa-fw"></i> Where can I get help during the competition? 
 
