@@ -8,8 +8,13 @@ markup: "mmark"
 <img src="img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
 
 <h4>
-ASA DataFest 2021 @ Edinburgh will be held **virtually** over the **March 26 - 28, 2021** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
+ASA DataFest 2021 @ Edinburgh was **virtually** over the **March 26 - 28, 2021** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
 
+<br>
+
+Find out more about how the event went and the winners [here](/df2021).
+
+<!--
 Click [here](/signup) to sign up, *deadline is March 19, 2021!* 
 
 The competition is open to all **undergraduate** students from The University of Edinburgh and Heriot-Watt University. 
@@ -28,6 +33,8 @@ https://ed-ac-uk.zoom.us/j/89960809945 <br>
 Passcode: datafest21
 </details>
 
+-->
+
 <br>
 
 <hr>
@@ -44,14 +51,22 @@ ASA DataFest<sup><small>TM</small></sup> at University of Edinburgh is organized
 
 While ASA DataFest<sup><small>TM</small></sup> is a competition, the main goal of the event is to promote collaboration. Here are some testimonials from past participants:
 
->*It was a great experience, with a fun and interesting challenge. One of my favorite parts is how varied the presentations and projects from each team are. I love learning about ways in which others looked at and analyzed the same problem/ data.*  
+> "I highly encourage all students to take part in this event. Not only is it incredibly fun, but it also gives you an opportunity to showcase/develop your analytical, teamwork, and time management skills, all of which are highly valuable to a potential employer."
 
 <br>
 
->*DataFest was an awesome experience. To me, the best part was working in a team of friends that I usually hung out with, but had not had a chance to work together intensively on a project. We enjoyed analyzing the situations and solving problems together for our client. At the end of the day, we just got to know each other better. It was also fun to interact with other teams to explore other approaches while keeping in mind that we were in competition. The fact that we were given a huge amount of data really challenges us to come up with creative and practical approaches. Another important part was the presentation. Every team had to explain well to the judges their objectives and solutions. Our team won the Best Visualization award which is really awesome. Lastly, the food was fantastic.*
+> "I think everyone should sign up for DataFest! No matter what your background is, you will certainly provide valuable insight that other teammates might not have! Beyond that, it is really fun to muck around in realistic data and see what insights you can find."
+
+<br>
+
+> "The event was a great opportunity to challenge my coding skills and work with people I had not met before. At the end of the weekend, I had made new friends and learnt a lot. I strongly recommend it."
 
 
 ### Past DataFests
+
+#### 2021 - Rocky Mountain Poison and Drug Safety Center
+
+**Goal:** For this competition the Rocky Mountain Poison and Drug Safety Center was interested in discovering and identifying patterns of drug use, with particular attention paid to identifying misuse. These could include patterns that might describe demographic profiles within a given category of drug or combinations of drugs that frequently appear together. One goal they were keen to achieve with the data was to predict future drug misuse cases. The data sets came from participants who responded to an on-line request and were paid to participate. Click [here](/df2021) to read more about the submissions from the winning teams at ASA DataFest 2021 @ EDI.
 
 #### 2020 - COVID-19
 
