@@ -17,7 +17,7 @@ For more on the code of conduct, please see the [ASA Meeting Code of Conduct](ht
 
 ### Need Help?
 
-Please speak with Mine Çetinkaya-Rundel or reach them at [mcetinka@ed.ac.uk](mailto:mcetinka@ed.ac.uk).
+Please speak with Mine Serveh Sharifi or reach them at [mcetinka@ed.ac.uk](mailto:serveh.sharifi@ed.ac.uk).
 
 If any attendee engages in harassing behavior, the event organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the organizers with a concise description of your grievance.)
 

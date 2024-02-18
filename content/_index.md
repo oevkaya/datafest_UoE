@@ -1,5 +1,5 @@
 ---
-title: "DataFest 2021 @ EDI"
+title: "DataFest 2024 @ EDI"
 description: "University of Edinburgh & Heriot-Watt"
 location: ""
 markup: "mmark"
@@ -8,11 +8,11 @@ markup: "mmark"
 <img src="img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
 
 <h4>
-ASA DataFest 2021 @ Edinburgh was **virtually** over the **March 26 - 28, 2021** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
+ASA DataFest 2024 @ Edinburgh is **on site** on **March 22 - 24, 2024** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
 
 <br>
 
-Find out more about how the event went and the winners [here](/df2021).
+Find out more about how the event went and the winners from last event [here](/df2021).
 
 <!--
 Click [here](/signup) to sign up, *deadline is March 19, 2021!* 

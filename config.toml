@@ -1,7 +1,7 @@
 baseurl = ""
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "DataFest @ EDI"
+title = "DataFest-2024 @ EDI"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
@@ -24,7 +24,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   bio = ""
   job = ""
   location = "University of Edinburgh"
-  gravatarEmail = "mcetinka@ed.ac.uk"
+  gravatarEmail = "oevkaya@ed.ac.uk"
   # Your profile picture
 #  picture = ""
   twitter = "DataFestEDI"
@@ -81,7 +81,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.footer]]
   weight = 1
-  identifier = "School of Mathemaics"
+  identifier = "School of Mathematics"
   name = "School of Mathemaics"
   pre = "<i class=\"button-icon fa fa fa-map-marker\"></i>"
   url = "https://www.maths.ed.ac.uk/"
@@ -90,12 +90,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "ASA DataFest"
   pre = "<i class=\"button-icon fa fa fa-chart-bar\"></i>"
   url = "https://ww2.amstat.org/education/datafest/"
-[[menu.footer]]
-  weight = 3
-  identifier = "twitter"
-  name = "Twitter"
-  pre = "<i class=\"button-icon fa fa fa-twitter\"></i>"
-  url = "https://twitter.com/DataFestEDI"
+#[[menu.footer]]
+#  weight = 3
+#  identifier = "twitter"
+#  name = "Twitter"
+#  pre = "<i class=\"button-icon fa fa fa-twitter\"></i>"
+#  url = "https://twitter.com/DataFestEDI"
 [[menu.footer]]
 
 
