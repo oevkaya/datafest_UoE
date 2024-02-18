@@ -5,7 +5,7 @@ location: ""
 markup: "mmark"
 ---
 
-<img src="img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
+<img src="https://github.com/oevkaya/datafest_UoE/blob/master/docs/img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
 
 <h4>
 ASA DataFest 2024 @ Edinburgh is **on site** on **March 22 - 24, 2024** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
