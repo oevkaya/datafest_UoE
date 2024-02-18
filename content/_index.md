@@ -5,7 +5,7 @@ location: ""
 markup: "mmark"
 ---
 
-<img src="/docs/img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
+<img src="/img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
 
 
 <h4>
