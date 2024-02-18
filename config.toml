@@ -19,15 +19,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   category = "categories"
   archive = "archives"
 
-[author]
-  name = "ASA DataFest"
-  bio = ""
-  job = ""
-  location = "University of Edinburgh"
-  gravatarEmail = "oevkaya@ed.ac.uk"
-  # Your profile picture
-#  picture = ""
-  twitter = "DataFestEDI"
+
  
 # Menu Configuration
 [[menu.main]]
@@ -105,3 +97,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   background = "https://github.com/oevkaya/datafest_UoE/blob/master/content/img/EdinburghUni.jpg?raw=true"
   background2020 = "https://github.com/mine-cetinkaya-rundel/datafest-edi/blob/master/content/img/df2020.jpg?raw=true"
   favicon = ""
+  [params.author]
+    name = "ASA DataFest"
+    bio = ""
+    job = ""
+    location = "University of Edinburgh"
+    gravatarEmail = "oevkaya@ed.ac.uk"
+  # Your profile picture
+#  picture = ""
+#  twitter = "DataFestEDI"
