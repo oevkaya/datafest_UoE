@@ -1,15 +1,17 @@
 ---
-title: "DataFest 2021 Sponsors"
+title: "DataFest 2024 Sponsors"
 markup: "mmark"
 ---
 
-ASA DataFest<small><sup>TM</sup></small> at University of Edinburgh cannot run without your support! Since we're running the event virtually this year our financial costs will be low but we need lots of consultant hours so we hope that you'll consider supporting us with your time this year! Click [here](/signup) as a consultant.
+ASA DataFest<small><sup>TM</sup></small> at University of Edinburgh cannot run without your support! 
 
-Click [here](/sponsorship) to find out more about how you can support DataFest at University of Edinburgh, and don't hesitate to [contact us](mailto:mcetinka@ed.ac.uk) with sponsorship questions.
+We need lots of consultant hours so we hope that you'll consider supporting us with your time this year! Click [here](/signup) as a consultant.
+
+To find out more about how you can support DataFest at University of Edinburgh, and don't hesitate to [contact us](mailto:serveh.sharifi@ed.ac.uk) with sponsorship questions.
 
 Huge thanks to our sponsors, and we're hoping to add more to this list!
 
-<a href="/sponsorship" class="btn btn-primary" role="button">Support DataFest 2021</a>
+<a href="/sponsorship" class="btn btn-primary" role="button">Support DataFest 2024</a>
 
 <br>
 
@@ -20,10 +22,6 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 <br><br><br>
 
 <img style="width:400px;float: left;padding-right:20px" src="/logos/rstudio.png"> [RStudio](https://rstudio.com/)’s mission is to create free and open-source software for data science, scientific research, and technical communication. We do this to enhance the production and consumption of knowledge by everyone, regardless of economic means, and to facilitate collaboration and reproducible research, both of which are critical to the integrity and efficacy of work in science, education, government, and industry. RStudio also produces RStudio Team, a modular platform of commercial software products that give organizations the confidence to adopt R, Python and other open-source data science software at scale - for the benefit of many people, to leverage large amounts of data, to integrate with existing enterprise systems, platforms, and processes, or be compliant with security practices and standards - along with online services to make it easier to learn and use them over the web.
-
-<br><br><br>
-
-<img style="width:400px;float: left;padding-right:20px" src="/logos/gather.png"> [Gather](https://gather.town/) is building virtual spaces for people to live and interact more effectively online, while having more fun. We combine video-calling with a 2D map, letting you walk around and talk to the other people right next to you. Our creation tools also let you make your own custom, interactive spaces!
 
 <br><br><br>
 
