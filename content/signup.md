@@ -3,7 +3,7 @@ title: "Sign up"
 markup: "mmark"
 ---
 
-Seats are limited, sign up before it's too late! Deadline is **19 March 2021, 5pm UK time**.
+Seats are limited, sign up before it's too late! Deadline is **?? March 2024, 5pm UK time**.
 
 <br><br>
 
@@ -11,7 +11,9 @@ Seats are limited, sign up before it's too late! Deadline is **19 March 2021, 5p
 
 ### Option 1: Team sign-up (2-5 students)
 
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMTZVUjVBR0sySDZKR0VORjVFSFVXMFRNSS4u"><i class="fas fa-user-plus fa-2x" style="color:#03A9F4"></i></a> Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMTZVUjVBR0sySDZKR0VORjVFSFVXMFRNSS4u) to sign up as a team of 2 to 5 students. Students signing up in this category will be given priority.
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMTZVUjVBR0sySDZKR0VORjVFSFVXMFRNSS4u"><i class="fas fa-user-plus fa-2x" style="color:#03A9F4"></i></a> 
+
+Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMTZVUjVBR0sySDZKR0VORjVFSFVXMFRNSS4u) to sign up as a team of 2 to 5 students. Students signing up in this category will be given priority.
 
 <br>
 
@@ -27,4 +29,4 @@ Seats are limited, sign up before it's too late! Deadline is **19 March 2021, 5p
 
 <br><br>
 
-If you have any questions about registration, please contact [Dr. Mine Çetinkaya-Rundel](mailto:mcetinka@ed.ac.uk).
+If you have any questions about registration, please contact [Dr. Serveh Sharifi Far](mailto:serveh.sharifi@ed.ac.uk).

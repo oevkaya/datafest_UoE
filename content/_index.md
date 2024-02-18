@@ -12,7 +12,7 @@ ASA DataFest 2024 @ Edinburgh is **on site** on **March 22 - 24, 2024** weekend 
 
 <br>
 
-Find out more about how the event went and the winners from last event [here](/df2021).
+Find out more about how the event went and the winners from the last one [here](/df2021).
 
 <!--
 Click [here](/signup) to sign up, *deadline is March 19, 2021!* 
@@ -40,6 +40,8 @@ Passcode: datafest21
 <hr>
 
 ### What is DataFest?
+
+Are you up for a data challenge? Want to mingle with data analysis professionals from industry and academia? Compete for prizes and glory? 
 
 ASA DataFest<sup><small>TM</small></sup> is a data analysis competition where teams of up to five students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun!
 

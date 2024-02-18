@@ -3,18 +3,28 @@ title: "Schedule"
 markup: "mmark"
 ---
 
-All events take place virtually. We'll use Slack and Gather for communication.
+All events take place on site. We'll use Teams channel for communication. If you are an online participant for DataFest, you will be able to communicate with consultants via Teams or Zoom as well. 
 
-### Friday, 26 March 2021
+## Event details
+
+**When:** Friday, March 22 at 5:00pm - Sunday, March 24 at 7:30pm
+
+**Where:** Nuclues Building - Hawthorn Teaching room, University of Edinburgh
+
+### Friday, 22 March 2024
 
 **Welcome!**
 
-📣 6-6:30pm - Kickoff & Meet the data on Gather lecture hall  
-🍻 9-9:30pm - Social hour on Gather rooftop  
+📣 5-6pm - Set up registeration 
+📣 6-6:30pm - Welcome- overview of the event- Introduce the dataset  
+   6:30-7pm - Work on data
+🍻 7-7:30pm - Pizza time!
+   7:30-9pm - Work on data
 
-Consultants available for help until midnight on Gather, you can work as late as you like.
 
-### Saturday, 27 March 2021
+Consultants available for help until midnight on Teams, you can work as late as you like.
+
+### Saturday, 23 March 2024
 
 **Carry on!**
 
@@ -23,7 +33,7 @@ Consultants available for help until midnight on Gather, you can work as late as
 
 Consultants available for help until midnight on Gather, you can work as late as you like.
 
-### Sunday, 28 March 2021
+### Sunday, 24 March 2024
 
 **Wrap up!**
 
@@ -31,8 +41,6 @@ Consultants available for help until midnight on Gather, you can work as late as
 🛑 5pm - Submission deadline  
 
 Consultants available for help until 5:00 pm on Gather.
-
-### Friday, 2 April
 
 **Award ceremony**
 
