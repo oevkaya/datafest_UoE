@@ -48,7 +48,7 @@ ASA DataFest<sup><small>TM</small></sup> is a data analysis competition where te
 
 ASA DataFest<sup><small>TM</small></sup> is also a great opportunity to gain the experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.
 
-ASA DataFest<sup><small>TM</small></sup> at Edinburgh is organised by the University of Edinburgh (the School of Mathematics) and the Heriot-Watt University.
+ASA DataFest<sup><small>TM</small></sup> at Edinburgh is organised by the University of Edinburgh (the School of Mathematics) and the Heriot-Watt University. The organising committee are Serveh Sharifi, Vanda Inacio, Ozan Evkaya, Amanda Lenzi, Neil Chada.
 
 ### Testimonials
 
