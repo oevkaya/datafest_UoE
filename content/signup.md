@@ -3,7 +3,7 @@ title: "Sign up"
 markup: "mmark"
 ---
 
-Seats are limited, sign up before it's too late! Deadline is **?? March 2024, 5pm UK time**.
+Seats are limited, sign up before it's too late! Deadline is **10 March 2024, 5pm UK time**.
 
 <br><br>
 
@@ -29,4 +29,4 @@ Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRC
 
 <br><br>
 
-If you have any questions about registration, please contact [Dr. Serveh Sharifi Far](mailto:serveh.sharifi@ed.ac.uk).
+If you have any questions about registration, please contact [Dr. Serveh Sharifi](mailto:serveh.sharifi@ed.ac.uk) or [Dr. Vanda Inacio](mailto:vanda.inacio@ed.ac.uk).
