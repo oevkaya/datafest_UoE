@@ -3,7 +3,7 @@ title: "DataFest 2024 Sponsors"
 markup: "mmark"
 ---
 
-ASA DataFest<small><sup>TM</sup></small> at University of Edinburgh cannot run without your support! 
+ASA DataFest at University of Edinburgh cannot run without your support! 
 
 We need lots of consultant hours so we hope that you'll consider supporting us with your time this year! Click [here](/signup) as a consultant.
 
@@ -25,6 +25,18 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 <img style="width:400px;float: left;padding-right:20px" src="/logos/CfS_2col_cmyk.jpg">
 
 [Centre for Statistics](https://centreforstatistics.maths.ed.ac.uk/) unites data-driven researchers from across Edinburgh. The Centre promotes Statistics and its applications, the development and application of novel statistical techniques, and it leads the organization of a variety of Statistics-related events, such as David Finney Lectures, Statistics Afternoons, and Research Days. The Centre has more than 70 members from a variety of data-driven fields, and it has a Statistical Consultancy Unit providing bespoke consultancy and training.
+
+<br><br><br>
+
+[The Bayes Centre](https://www.ed.ac.uk/bayes) is the University of Edinburgh's Innovation Hub for Data Science and Artificial Intelligence. The technical strengths brought together in the Bayes Centre build on world-leading academic excellence in the mathematical, computational, engineering, and natural sciences in the University of Edinburgh's College of Science and Engineering. The Bayes Centre offers a new kind of collaborative, multidisciplinary proving ground where we develop innovative technological solutions for the benefit of society. 
+
+<br><br><br>
+
+[Maxwell Institute for Mathematical Sciences](https://www.maxwell.ac.uk/) combines mathematical research and graduate training in the School of Mathematics at the University of Edinburgh and the Departments of Mathematics and of Actuarial Mathematics and Statistics at Heriot-Watt University. The Maxwell Institute builds on the long history of collaboration between the three departments, best exemplified by the establishment and continued operation of the International Centre for Mathematical Sciences (ICMS). 
+
+<br><br><br>
+
+[Actuarial Mathematics & Statistics Department at the Heriot-Watt University](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences/departments/actuarial-maths-statistics.htm) is a world-leading centre of teaching and research in actuarial mathematics, financial mathematics, risk management, probability and statistics. Heriot-Watt was the first in the UK to offer a specialised programme in actuarial mathematics. Their BSc and MSc actuarial programmes are all fully accredited by the Institute and Faculty of Actuaries (IFoA). Their full suite of undergraduate programmes is accredited by the Royal Statistical Society.
 
 <br><br><br>
 
@@ -58,7 +70,10 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 
 <br><br>
 
+<!--
 <img style="width:300px;float: left;padding-right:20px" src="/logos/RSS.jpg">
+-->
 
+<!--
 Founded in 1834, the [The Royal Statistical Society](https://rss.org.uk/)  are one of the world’s leading organisations advocating for the importance of statistics and data. With members in the UK and across the world, they are a professional body for all statisticians and data analysts. They advocate for the key role of statistics and data in society, and work to ensure that policy formulation and decision making are informed by evidence for the public good.
-
+-->

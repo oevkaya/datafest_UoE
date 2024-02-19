@@ -44,15 +44,15 @@ Passcode: datafest21
 
 Are you up for a data challenge? Want to mingle with data analysis professionals from industry and academia? Compete for prizes and glory? 
 
-ASA DataFest<sup><small>TM</small></sup> is a data analysis competition where teams of up to five undergraduate students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun!
+ASA DataFest is a data analysis competition where teams of up to five undergraduate students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun!
 
-ASA DataFest<sup><small>TM</small></sup> is also a great opportunity to gain the experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.
+ASA DataFest is also a great opportunity to gain the experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.
 
-ASA DataFest<sup><small>TM</small></sup> at Edinburgh is organised by the University of Edinburgh (the School of Mathematics) and the Heriot-Watt University. The organising committee are Serveh Sharifi, Vanda Inacio, Ozan Evkaya, Amanda Lenzi, Neil Chada.
+ASA DataFest at Edinburgh is organised by the University of Edinburgh (the School of Mathematics) and the Heriot-Watt University. The organising committee are Serveh Sharifi, Vanda Inacio, Ozan Evkaya, Amanda Lenzi, Neil Chada.
 
 ### Testimonials
 
-While ASA DataFest<sup><small>TM</small></sup> is a competition, the main goal of the event is to promote collaboration. Here are some testimonials from past participants:
+While ASA DataFest is a competition, the main goal of the event is to promote collaboration. Here are some testimonials from past participants:
 
 > "I highly encourage all students to take part in this event. Not only is it incredibly fun, but it also gives you an opportunity to showcase/develop your analytical, teamwork, and time management skills, all of which are highly valuable to a potential employer."
 
