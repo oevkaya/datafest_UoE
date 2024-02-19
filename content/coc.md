@@ -5,7 +5,7 @@ markup: "mmark"
 
 ASA DataFest<small><sup>TM</sup></small> at University of Edinburgh is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media. ASA DataFest<small><sup>TM</sup></small> participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.
 
-This code of conduct applies to all participants, including organizers, consultants, judges, and helpers and applies to all modes of interaction, both in-person and online, on ASA DataFest<small><sup>TM</sup></small> Community, and event specific Slack channels, and social media.
+This code of conduct applies to all participants, including organizers, consultants, judges, and helpers and applies to all modes of interaction, both in-person and online, on ASA DataFest<small><sup>TM</sup></small> Community, and event specific Teams channels, and social media.
 
 Participants agree to:
 
@@ -17,7 +17,7 @@ For more on the code of conduct, please see the [ASA Meeting Code of Conduct](ht
 
 ### Need Help?
 
-Please speak with Mine Serveh Sharifi or reach them at [mcetinka@ed.ac.uk](mailto:serveh.sharifi@ed.ac.uk).
+Please speak to one of the organisers or email [serveh.sharifi@ed.ac.uk].
 
 If any attendee engages in harassing behavior, the event organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the conference. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the organizers with a concise description of your grievance.)
 
