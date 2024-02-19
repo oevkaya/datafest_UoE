@@ -19,9 +19,6 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 
 [The School of Mathematics](https://www.maths.ed.ac.uk/) at The University of Edinburgh is situated in the James Clerk Maxwell Building within the King's Buildings campus. There are over 50 academic and related staff and around 60 research students. The School also runs a number of MSc programmes. Undergraduate courses are given to around 2000 students in any one year.
 
-<br><br><br>
-
-<img style="width:400px;float: left;padding-right:20px" src="/logos/rstudio.png"> [RStudio](https://rstudio.com/)’s mission is to create free and open-source software for data science, scientific research, and technical communication. We do this to enhance the production and consumption of knowledge by everyone, regardless of economic means, and to facilitate collaboration and reproducible research, both of which are critical to the integrity and efficacy of work in science, education, government, and industry. RStudio also produces RStudio Team, a modular platform of commercial software products that give organizations the confidence to adopt R, Python and other open-source data science software at scale - for the benefit of many people, to leverage large amounts of data, to integrate with existing enterprise systems, platforms, and processes, or be compliant with security practices and standards - along with online services to make it easier to learn and use them over the web.
 
 <br><br><br>
 
