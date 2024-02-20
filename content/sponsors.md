@@ -42,9 +42,13 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 
 <br><br><br>
 
+![Maxwell](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/maxwell-logo-lg.png)
+
 [Maxwell Institute for Mathematical Sciences](https://www.maxwell.ac.uk/) combines mathematical research and graduate training in the School of Mathematics at the University of Edinburgh and the Departments of Mathematics and of Actuarial Mathematics and Statistics at Heriot-Watt University. The Maxwell Institute builds on the long history of collaboration between the three departments, best exemplified by the establishment and continued operation of the International Centre for Mathematical Sciences (ICMS). 
 
 <br><br><br>
+
+![HW](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/heriot-watt-university-logo.png)
 
 [Actuarial Mathematics & Statistics Department at the Heriot-Watt University](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences/departments/actuarial-maths-statistics.htm) is a world-leading centre of teaching and research in actuarial mathematics, financial mathematics, risk management, probability and statistics. Heriot-Watt was the first in the UK to offer a specialised programme in actuarial mathematics. Their BSc and MSc actuarial programmes are all fully accredited by the Institute and Faculty of Actuaries (IFoA). Their full suite of undergraduate programmes is accredited by the Royal Statistical Society.
 
