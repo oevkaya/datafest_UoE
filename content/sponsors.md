@@ -30,7 +30,7 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 <img style="width:400px;float: left;padding-right:20px" src="/logos/CfS_2col_cmyk.jpg">
 -->
 
-![CfS](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/logos/CfS-2col-cmyk.png)
+![CfS](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/logos/CfS_2col_cmyk.png)
 
 [Centre for Statistics](https://centreforstatistics.maths.ed.ac.uk/) unites data-driven researchers from across Edinburgh. The Centre promotes Statistics and its applications, the development and application of novel statistical techniques, and it leads the organization of a variety of Statistics-related events, such as David Finney Lectures, Statistics Afternoons, and Research Days. The Centre has more than 70 members from a variety of data-driven fields, and it has a Statistical Consultancy Unit providing bespoke consultancy and training.
 
