@@ -67,7 +67,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
   weight = 8
   identifier = "df2021"
-  name = "DataFest 2021"
+  name = "Past DataFests"
   pre = "<i class=\"material-icons\">description</i>"
   url = "/df2021"
 
