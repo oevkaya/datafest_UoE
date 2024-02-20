@@ -57,7 +57,7 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 
 <br><br><br>
 
-![HW](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/heriot-watt-university-logo.png)
+![HW](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/HWU-logo-main.png)
 
 [Actuarial Mathematics & Statistics Department at the Heriot-Watt University](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences/departments/actuarial-maths-statistics.htm) is a world-leading centre of teaching and research in actuarial mathematics, financial mathematics, risk management, probability and statistics. Heriot-Watt was the first in the UK to offer a specialised programme in actuarial mathematics. Their BSc and MSc actuarial programmes are all fully accredited by the Institute and Faculty of Actuaries (IFoA). Their full suite of undergraduate programmes is accredited by the Royal Statistical Society.
 
@@ -93,7 +93,7 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 <img style="width:400px;float: left;padding-right:20px" src="/logos/asa.png">
 -->
 
-![ASA](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/logos/asa.png)
+![ASA](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/ASA-logo.png)
 
 [The American Statistical Association](https://www.amstat.org/) is the world’s largest community of statisticians, the “Big Tent for Statistics.” It is the second-oldest, continuously operating professional association in the country. Since it was founded in Boston in 1839, the ASA has supported excellence in the development, application, and dissemination of statistical science through meetings, publications, membership services, education, accreditation, and advocacy.
 
