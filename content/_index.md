@@ -5,15 +5,14 @@ location: ""
 markup: "mmark"
 ---
 
+<!--
 <img src="/img/df-edi-logo-light.png" width="200px" alt="DataFest @ EDI logo" align="right">
+-->
 
 
-<h4>
 ASA DataFest 2024 @ Edinburgh is **on site** on **March 22 - 24, 2024** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
 
 <br>
-
-Find out more about how the event went and the winners from the last one [here](/df2021).
 
 <!--
 Click [here](/signup) to sign up, *deadline is March 19, 2021!* 
@@ -40,6 +39,8 @@ Passcode: datafest21
 
 <hr>
 
+![DataFest @ EDI logo](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/df-edi-logo-light.png)
+
 ### What is DataFest?
 
 Are you up for a data challenge? Want to mingle with data analysis professionals from industry and academia? Compete for prizes and glory? 
@@ -63,4 +64,8 @@ While ASA DataFest is a competition, the main goal of the event is to promote co
 <br>
 
 > "The event was a great opportunity to challenge my coding skills and work with people I had not met before. At the end of the weekend, I had made new friends and learnt a lot. I strongly recommend it."
+
+<br><br>
+
+Find out more about how the event went and the winners from the last one [here](/df2021).
 

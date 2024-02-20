@@ -13,19 +13,23 @@ Seats are limited, sign up before it's too late! Deadline is **10 March 2024, 5p
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMTZVUjVBR0sySDZKR0VORjVFSFVXMFRNSS4u"><i class="fas fa-user-plus fa-2x" style="color:#03A9F4"></i></a> 
 
-Click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMTZVUjVBR0sySDZKR0VORjVFSFVXMFRNSS4u) to sign up as a team of 2 to 5 students. Students signing up in this category will be given priority.
+Click [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYRy55tdGgmlKnUJXTtssd2tUMkdPT1NLRUZZTTg1VjdURUlDNzZUM1IwVS4u) to sign up as a team of 2 to 5 students. Students signing up in this category will be given priority.
 
 <br>
 
 ### Option 2: Looking for teammates
 
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUNVQ2MkFCT0NVM0lMTlhRUzZIVFRQMlAzVS4u"><i class="fas fa-user-plus fa-2x" style="color:#E91E63"></i></a> If you do not have a team in mind but you're looking for teammates, click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUNVQ2MkFCT0NVM0lMTlhRUzZIVFRQMlAzVS4u) to leave us your information so that you can be matched with others.
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUNVQ2MkFCT0NVM0lMTlhRUzZIVFRQMlAzVS4u"><i class="fas fa-user-plus fa-2x" style="color:#E91E63"></i></a> 
+
+If you do not have a team in mind but you're looking for teammates, click [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYcc4uH2cC1JGhEETbUpyEVVUNzVaQkRaR0dZSkVaOE5LQ0NVMFJaMUhJQi4u) to leave us your information so that you can be matched with others.
 
 <br><br>
 
 ## Consultants
 
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUQTRYNjFEU0pVTEZMNUoyUjhKVExGRTY5Ry4u"><i class="fas fa-user-plus fa-2x" style="color:#4285F4"></i></a> If you are interested in serving as a consultant during the event, please let us know your availability [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUQTRYNjFEU0pVTEZMNUoyUjhKVExGRTY5Ry4u).
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUQTRYNjFEU0pVTEZMNUoyUjhKVExGRTY5Ry4u"><i class="fas fa-user-plus fa-2x" style="color:#4285F4"></i></a> 
+
+If you are interested in serving as a consultant during the event, please let us know your availability [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYcc4uH2cC1JGhEETbUpyEVVUQlNaWUEwQkZKRjZDWUhLUVRISlpORFVFRS4u).
 
 <br><br>
 

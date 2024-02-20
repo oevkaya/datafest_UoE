@@ -74,7 +74,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.footer]]
   weight = 1
   identifier = "School of Mathematics"
-  name = "School of Mathemaics"
+  name = "School of Mathematics"
   pre = "<i class=\"button-icon fa fa fa-map-marker\"></i>"
   url = "https://www.maths.ed.ac.uk/"
 [[menu.footer]]
