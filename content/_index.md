@@ -51,6 +51,8 @@ ASA DataFest is also a great opportunity to gain the experience that employers a
 
 ASA DataFest at Edinburgh is organised by the University of Edinburgh (the School of Mathematics) and the Heriot-Watt University. The organising committee are Serveh Sharifi, Vanda Inacio, Ozan Evkaya, Amanda Lenzi, Neil Chada.
 
+---
+
 ### Testimonials
 
 While ASA DataFest is a competition, the main goal of the event is to promote collaboration. Here are some testimonials from past participants:
@@ -66,6 +68,8 @@ While ASA DataFest is a competition, the main goal of the event is to promote co
 > "The event was a great opportunity to challenge my coding skills and work with people I had not met before. At the end of the weekend, I had made new friends and learnt a lot. I strongly recommend it."
 
 <br><br>
+
+---
 
 Find out more about how the event went and the winners from the last one [here](/df2021).
 

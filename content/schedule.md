@@ -11,6 +11,8 @@ All events take place on-site. We'll use MS Teams for communication.
 
 **Where:** Hawthorn Teaching Room, Nucleus Building, The King's Buildings campus, The University of Edinburgh, EH9 3FG
 
+---
+
 ### Friday, 22 March 2024
 
 **Welcome!**
@@ -26,6 +28,8 @@ All events take place on-site. We'll use MS Teams for communication.
 💻 7:30-9pm - Work on data
    
 On the first day, the main goal is to access the dataset, try to understand it and make  plans for your analysis. 
+
+---
 
 ### Saturday, 23 March 2024
 
@@ -50,6 +54,8 @@ On the first day, the main goal is to access the dataset, try to understand it a
 💻 7:30-9pm - Work on data
 
 On the second day, we suggest you choose the main questions and methods you want to use and start with analysing the data. 
+
+---
 
 ### Sunday, 24 March 2024
 
