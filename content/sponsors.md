@@ -19,7 +19,7 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 <img style="width:400px;float: left;padding-right:20px" src="/logos/Mathematics_2col_cmyk.jpg">
 -->
 
-![SoM](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/logos/Mathematics_2col_cmyk.png)
+![SoM](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/Mathematics_2col_cmyk.png)
 
 [The School of Mathematics](https://www.maths.ed.ac.uk/) at The University of Edinburgh is situated in the James Clerk Maxwell Building within the King's Buildings campus. There are over 50 academic and related staff and around 60 research students. The School also runs a number of MSc programmes. Undergraduate courses are given to around 2000 students in any one year.
 
@@ -30,13 +30,13 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 <img style="width:400px;float: left;padding-right:20px" src="/logos/CfS_2col_cmyk.jpg">
 -->
 
-![CfS](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/logos/CfS_2col_cmyk.png)
+![CfS](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/CfS_2col_cmyk.png)
 
 [Centre for Statistics](https://centreforstatistics.maths.ed.ac.uk/) unites data-driven researchers from across Edinburgh. The Centre promotes Statistics and its applications, the development and application of novel statistical techniques, and it leads the organization of a variety of Statistics-related events, such as David Finney Lectures, Statistics Afternoons, and Research Days. The Centre has more than 70 members from a variety of data-driven fields, and it has a Statistical Consultancy Unit providing bespoke consultancy and training.
 
 <br><br><br>
 
-![Bayes](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/logos/Bayes-logo-blue.png)
+![Bayes](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/Bayes-logo-blue.png)
 
 [The Bayes Centre](https://www.ed.ac.uk/bayes) is the University of Edinburgh's Innovation Hub for Data Science and Artificial Intelligence. The technical strengths brought together in the Bayes Centre build on world-leading academic excellence in the mathematical, computational, engineering, and natural sciences in the University of Edinburgh's College of Science and Engineering. The Bayes Centre offers a new kind of collaborative, multidisciplinary proving ground where we develop innovative technological solutions for the benefit of society. 
 
