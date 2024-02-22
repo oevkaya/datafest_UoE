@@ -39,7 +39,7 @@ Passcode: datafest21
 
 <hr>
 
-![DataFest @ EDI logo](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/df-edi-logo-light.png)
+![DataFest @ EDI logo](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/df-edi-logo.png)
 
 ### What is DataFest?
 

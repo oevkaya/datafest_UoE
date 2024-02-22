@@ -49,6 +49,14 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 
 <br><br><br>
 
+![ICMS](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/icms-logo.png)
+
+[International Centre for Mathematical Sciences](https://www.icms.org.uk/) stimulates and promotes the mathematical sciences through diverse international workshops and conferences. Our vibrant events programme attracts leading mathematical scientists from the UK and internationally - connecting mathematical communities across the world. As a response to COVID, we are now experienced in organising and hosting virtual events, alongside in-person ones. 
+
+---
+
+<br><br><br>
+
 ![Maxwell](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/maxwell-logo-lg.png)
 
 [Maxwell Institute for Mathematical Sciences](https://www.maxwell.ac.uk/) combines mathematical research and graduate training in the School of Mathematics at the University of Edinburgh and the Departments of Mathematics and of Actuarial Mathematics and Statistics at Heriot-Watt University. The Maxwell Institute builds on the long history of collaboration between the three departments, best exemplified by the establishment and continued operation of the International Centre for Mathematical Sciences (ICMS). 

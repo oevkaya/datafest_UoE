@@ -66,6 +66,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "/coc"
 [[menu.main]]
   weight = 8
+  identifier = "practicals"
+  name = "Practicals"
+  pre = "<i class='fas fa-users'></i>"
+  url = "/practicals"
+[[menu.main]]
+  weight = 9
   identifier = "df2021"
   name = "Past DataFests"
   pre = "<i class=\"material-icons\">description</i>"
