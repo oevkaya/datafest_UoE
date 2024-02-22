@@ -25,7 +25,7 @@ All University of Edinburgh and Heriot-Watt undergraduate students are eligible.
 
 #### <i class="fas fa-question-circle fa-fw"></i> What are the prizes?</h4>
 
-Prizes include medals, student memberships to the American Statistical Association, and e-student memberships to the Royal Statistical Society with free print copies of the Significance magazine. We'll have a few other surprises as well!
+Prizes include medals, student memberships to the American Statistical Association, and e-student memberships to the Royal Statistical Society, and books. We'll have a few other surprises as well!
 
 ---
 
