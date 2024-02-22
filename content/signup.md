@@ -3,7 +3,7 @@ title: "Sign up"
 markup: "mmark"
 ---
 
-Seats are limited, sign up before it's too late! Deadline is **10 March 2024, 5pm UK time**.
+Seats are limited, sign up before it's too late! Deadline is **11 March 2024, 5pm UK time**.
 
 <br><br>
 
