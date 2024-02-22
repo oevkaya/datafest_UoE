@@ -7,7 +7,7 @@ All events take place on-site. We'll use MS Teams for communication.
 
 ### Event details
 
-**When:** Friday, March 22 at 6:00 pm - Sunday, March 24 at 7:30 pm
+**When:** Friday, March 22 at 6:00 pm - Sunday, March 24 at 7 pm
 
 **Where:** Hawthorn Teaching Room, Nucleus Building, The King's Buildings campus, The University of Edinburgh, EH9 3FG
 
@@ -69,19 +69,19 @@ On the second day, we suggest you choose the main questions and methods you want
 
 **Wrap up!**
 
-💻 2-4pm - Work on data
+💻 2-3:30pm - Work on data
 
-🛑 4pm - Submission deadline
-   
-☕️ 4-4:30pm - Refreshments/Social time 
+☕️ 3:30-4pm - Refreshments/Social time
 
-📈 4:30-6:30pm - Presentations   
+🛑 4pm - Submission deadline 
+
+📈 4-6pm - Presentations   
    
-🏆 6:30-7pm - Judges discussions
+🏆 6-6:30pm - Judges discussions
 
 **Award ceremony**
 
-🏆 7-7:30pm - Announcing winners and prize giving
+🏆 6:30-7pm - Announcing winners and prize giving
 
 We suggest that you spend the morning on analysing the data and interpreting the  results  and the afternoon on preparing your presentation.         
 
