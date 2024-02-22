@@ -7,7 +7,7 @@ markup: "mmark"
 
 Go to the **Sign Up** tab to register. Please fill out the form fully. 
 
-You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early! The registration deadline is **10th March, at 17:00**.
+You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early! The registration deadline is **11th March, at 17:00**.
 
 ---
 
