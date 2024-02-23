@@ -10,7 +10,7 @@ markup: "mmark"
 -->
 
 
-ASA DataFest 2024 @ Edinburgh is **on site** on **March 22 - 24, 2024** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
+The American Statistical Association (ASA) DataFest 2024 @ Edinburgh is **on site** on **March 22 - 24, 2024** weekend with participation from students from The University of Edinburgh and Heriot-Watt University. 
 
 <br>
 
