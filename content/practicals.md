@@ -14,12 +14,18 @@ After normal working hours, access to the venue is only possible by card. If you
 
 The event's full schedule is given in the "schedule" tab. You are welcome to spend as much time as you like on your work and leave the venue and come back as you wish. 
 
+---
+
 #### <i class="fas fa-question-circle fa-fw"></i> About First Aids?</h4>
 
 If you need first aid during the event, please talk to one of the organisers. 
 
+---
+
 #### <i class="fas fa-question-circle fa-fw"></i> Further practical infos</h4>
 
 Meals and refreshments will be provided for free, but if you need anything else to purchase, Cameron Toll Shopping Centre is within a 10-minute walking distance from the venue (address: 6 Lady Rd, Edinburgh EH16 5PB). 
+
+---
 
 
