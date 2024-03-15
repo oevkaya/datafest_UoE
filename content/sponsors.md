@@ -113,6 +113,8 @@ Huge thanks to our sponsors, and we're hoping to add more to this list!
 <img style="width:300px;float: left;padding-right:20px" src="/logos/RSS.jpg">
 -->
 
-<!--
+![RSS](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/RSS.png)
+
+
 Founded in 1834, the [The Royal Statistical Society](https://rss.org.uk/)  are one of the world’s leading organisations advocating for the importance of statistics and data. With members in the UK and across the world, they are a professional body for all statisticians and data analysts. They advocate for the key role of statistics and data in society, and work to ensure that policy formulation and decision making are informed by evidence for the public good.
--->
+

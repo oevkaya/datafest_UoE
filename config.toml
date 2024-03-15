@@ -1,7 +1,7 @@
 baseurl = ""
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "DataFest-2024 @ EDI"
+title = "DataFest-2024"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
@@ -73,7 +73,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
   weight = 9
   identifier = "df2021"
-  name = "Past DataFests"
+  name = "OUAT"
   pre = "<i class=\"material-icons\">description</i>"
   url = "/df2021"
 

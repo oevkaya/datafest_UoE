@@ -39,15 +39,19 @@ Passcode: datafest21
 
 <hr>
 
-![DataFest @ EDI logo](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/df-edi-logo.png)
+![DataFest](https://raw.githubusercontent.com/oevkaya/datafest_UoE/master/docs/img/df-edi-logo.png)
 
 ### What is DataFest?
 
 Are you up for a data challenge? Want to mingle with data analysis professionals from industry and academia? Compete for prizes and glory? 
 
+---
+
 ASA DataFest is a data analysis competition where teams of up to five undergraduate students attack a large, complex, and surprise dataset over a weekend. Your job is to represent your school by finding and communicating insights into these data. The teams that impress the judges will win prizes as well as glory for their school. Everyone will have a great experience, lots of food, and fun!
 
 ASA DataFest is also a great opportunity to gain the experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.
+
+---
 
 ASA DataFest at Edinburgh is organised by the University of Edinburgh (the School of Mathematics) and the Heriot-Watt University (the School of Mathematical and Computer Sciences). 
 
