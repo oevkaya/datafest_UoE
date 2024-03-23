@@ -59,10 +59,11 @@ See [here](https://www.ed.ac.uk/information-services/library-museum-gallery/usin
 #### <i class="fas fa-question-circle fa-fw"></i> What are the rules of the competition?
 
 - All projects must be submitted by **March 24, 2020 at 16:00 UK time**. There is only one submission per team. 
-- The data used in the project must be publicly available or openly licensed.
+- The data used in the project should NOT be shared in public. That rule is valid for your presentation until the all DataFest events are over (end of April roughly)
 - All interactive dashboards must be deployed online.
 - All slide decks and write ups must be submitted as a PDF document.
 - It's a competition, but a friendly one, so collaboration between teams is not only allowed but highly encouraged.
+
 
 ---
 
@@ -74,9 +75,7 @@ Submission will be done during the event and instructions will be given.
 
 #### <i class="fas fa-question-circle fa-fw"></i> What will I submit?
 
-There should only be one submission per team. Each team will have 6 minutes to present their findings to the judges. That’s exactly 6 minutes, not 6 minutes and a few additional seconds, but it’s perfectly fine if your presentation is shorter. All team members should take part in preparing and/or presenting your final work. You can use a slide deck of your choice and submit it as a pdf.
-
-Along with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.
+There should only be one submission per team. Each team will have 5 minutes to present their findings to the judges.All team members should take part in preparing and/or presenting your final work. You can use a slide deck of your choice and submit it as a pdf. Further details will be shared during Sunday.
 
 ---
 
